@@ -1,4 +1,4 @@
 package College;
 
-public class SEE {
+public class SEE extends College {
 }

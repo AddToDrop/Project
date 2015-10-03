@@ -1,4 +1,4 @@
 package Course;
 
-public class PECourse {
+public class PECourse extends Course {
 }

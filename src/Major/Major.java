@@ -1,4 +1,4 @@
 package Major;
 
-public class Major {
+public abstract class Major {
 }

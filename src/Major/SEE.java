@@ -1,4 +1,4 @@
 package Major;
 
-public class SEE {
+public class SEE extends Major {
 }

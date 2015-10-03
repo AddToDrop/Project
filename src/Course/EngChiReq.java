@@ -1,4 +1,4 @@
 package Course;
 
-public class EngChiReq {
+public class EngChiReq extends Course {
 }

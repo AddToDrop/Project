@@ -1,4 +1,4 @@
 package College;
 
-public class College {
+public abstract class College {
 }

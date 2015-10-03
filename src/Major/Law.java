@@ -1,4 +1,4 @@
 package Major;
 
-public class Law {
+public class Law extends Major {
 }

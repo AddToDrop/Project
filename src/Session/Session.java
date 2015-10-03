@@ -1,4 +1,4 @@
 package Session;
 
-public class Session {
+public abstract class Session {
 }

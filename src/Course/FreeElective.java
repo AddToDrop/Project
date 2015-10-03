@@ -1,4 +1,4 @@
 package Course;
 
-public class FreeElective {
+public class FreeElective extends Course {
 }

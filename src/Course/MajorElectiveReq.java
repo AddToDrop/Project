@@ -1,4 +1,4 @@
 package Course;
 
-public class MajorElectiveReq {
+public class MajorElectiveReq extends Course {
 }

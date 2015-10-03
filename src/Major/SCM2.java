@@ -1,4 +1,4 @@
 package Major;
 
-public class SCM2 {
+public class SCM2 extends Major {
 }

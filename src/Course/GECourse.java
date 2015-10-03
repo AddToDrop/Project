@@ -1,4 +1,4 @@
 package Course;
 
-public class GECourse {
+public class GECourse extends Course {
 }
