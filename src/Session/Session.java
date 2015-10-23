@@ -19,4 +19,15 @@ public class Session {
 	public String getCRN(){
 		return CRN;
 	}
+	
+	public int getDay(){
+		return day;
+	}
+	
+	public int getStart(){
+		return start;
+	}
+	public int getEnd(){
+		return end;
+	}
 }
