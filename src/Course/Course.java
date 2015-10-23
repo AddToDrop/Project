@@ -6,16 +6,21 @@ import Session.Session;
 public abstract class Course {
 	private String courseCode;
 	private String courseTitle;
-	//private ArrayList<Session> session;
+	//private HashMap key: CRN(string) value:session(object);
 	
-	public Course(String[] courseInfo){
+	public Course(String[] courseInfo){ //add hashmap and store
 		courseCode = courseInfo[1];
 		courseTitle = courseInfo[2];
+		
 	}
 	
 	public String getCourseTitle(){
 		return courseTitle;
 	}
+
+	//function arraylist getCRN ()
+
+	//function getinfo(crn, string time/day)
 	
 
 }
