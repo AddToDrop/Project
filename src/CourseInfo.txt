@@ -1,0 +1,4 @@
+CollegeReq CS3343 course1
+EngChiReq CS6546 course2
+CollegeReq CS3343 course3
+
