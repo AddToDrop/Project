@@ -1,10 +1,12 @@
 package College;
+import java.util.*;
+
 
 public abstract class College {
 	//comment
 	
 	String collegeName = new String();
-	String []collegeMajorList = new String[10];
-	String [] collegeCourseList = new String[10];
+	ArrayList<Object> collegeMajorList = new ArrayList<Object>();
+	ArrayList<Object> collegeCourseList = new ArrayList<Object>();
 	
 }
