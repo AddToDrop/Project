@@ -70,4 +70,14 @@ public class Admin {
 		}
 	}
 	
+	public static Session searchSession(String CRN){
+		for(Session s: sessionList){
+			if(s.getCRN() == CRN)
+				return s;
+		}
+		return null;
+	}
+	
+	
+	
 }
