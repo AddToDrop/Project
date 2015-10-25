@@ -7,6 +7,5 @@ public abstract class College {
 	
 	String collegeName = new String();
 	ArrayList<Object> collegeMajorList = new ArrayList<Object>();
-	ArrayList<Object> collegeCourseList = new ArrayList<Object>();
 	
 }
