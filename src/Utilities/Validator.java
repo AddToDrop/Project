@@ -42,7 +42,11 @@ public class Validator {
 	//Check studied Validation
 	public static boolean studiedValidation(Student student, Course courseInput){
 		ArrayList<Course> prevTaken = student.getPrevTaken();				
-		for(Course :)
+		for(Course prev:prevTaken){
+			if(courseInput.isEquals(prev)){
+				return false;
+			}else return true;
+		}
 		
 		
 		
