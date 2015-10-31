@@ -13,6 +13,8 @@ public class Student {
 	ArrayList<Course> prevTaken;
 	ArrayList<Course> registered;
 	
+	//Joshua: Alex please provide a function allowing me to get password with sid(add a parameter in getPassword(Strong sid) OR Where you store the student list
+	
 	public Student(String studentInfo){
 		
 	}
