@@ -36,7 +36,7 @@ public abstract class Course {
 	}
 
 	//function arraylist getCRN ()
-	public ArrayList getSessionCRN(){
+	public ArrayList<String> getSessionCRN(){
 		ArrayList<String> sessionCRNList = new ArrayList<String>();
 		Set<String> keys = sessionList.keySet();
 		

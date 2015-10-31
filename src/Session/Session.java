@@ -11,9 +11,11 @@ public class Session {
 		String[] sessionInfo = session.split(" ");
 		this.courseCode = sessionInfo[0];
 		this.CRN = sessionInfo[1];
-		this.day = Integer.parseInt(sessionInfo[2]);
-		this.start = Integer.parseInt(sessionInfo[3]);
-		this.end = Integer.parseInt(sessionInfo[4]);
+		
+		String[] sessionTime = sessionInfo[2].split("/");
+		this.day = Integer.parseInt(sessionTime[0]);
+		this.start = Integer.parseInt(sessionTime[1]);
+		this.end = Integer.parseInt(sessionTime[2]);
 	}
 	
 	public String getCRN(){

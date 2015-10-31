@@ -37,14 +37,16 @@ public class Admin {
 	}
 	
 	private static void makeSession(){
-		File sessionInfo = new File("..\\SessionInfo.txt");
+		File sessionInfo = new File(".\\src\\SessionInfo.txt");
 		try {
 			Scanner sessionIn = new Scanner(sessionInfo);
 			
 			while (sessionIn.hasNext()) {
 				String session = sessionIn.nextLine();
-				Session tmp = new Session(session);
-				sessionList.add(tmp);
+				if (!session.isEmpty()) {
+					Session tmp = new Session(session);
+					sessionList.add(tmp);
+				}
 			}
 			
 			sessionIn.close();
@@ -56,14 +58,17 @@ public class Admin {
 	}
 	
 	private static void makeCourse(){
-		File CourseInfo = new File("..\\CourseInfo.txt");
+		File CourseInfo = new File(".\\src\\CourseInfo.txt");
 		try {
 			Scanner courseIn = new Scanner(CourseInfo);
 			
 			while (courseIn.hasNext()) {
 				String course = courseIn.nextLine();
-				Course tmp = CourseGenerator.createCourse(course);
-				courseList.add(tmp);
+				if (!course.isEmpty()) {
+					Course tmp = CourseGenerator.createCourse(course);
+					courseList.add(tmp);
+					System.out.println("Course " + tmp.getCourseCode() + " is created"); 
+				}
 			}
 			
 			courseIn.close();
@@ -75,14 +80,16 @@ public class Admin {
 	}
 	
 	private static void makeStudent(){
-		File StudentInfo = new File("C:\\Users\\yanloklai3\\Desktop\\StudentInfo.txt");
+		File StudentInfo = new File(".\\src\\StudentInfo.txt");
 		try {
 			Scanner studentIn = new Scanner(StudentInfo);
 			
 			while (studentIn.hasNext()) {
 				String student = studentIn.nextLine();
-				Student tmp = new Student(student);
-				studentList.add(tmp);
+				if (!student.isEmpty()) {
+					Student tmp = new Student(student);
+					studentList.add(tmp);
+				}
 			}
 			
 			studentIn.close();
@@ -103,6 +110,7 @@ public class Admin {
 	public static Course getCourse(String courseCode) {
 		for (Course c:courseList) {
 			if (c.getCourseCode().equals(courseCode)) {
+				System.out.println("system: " + c.getCourseCode() + " input: " + courseCode);
 				return c;
 			}
 		}

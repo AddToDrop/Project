@@ -11,8 +11,8 @@ public class Student {
 	String SID;
 	String password;
 	String programme;
-	ArrayList<Course> prevTaken;
-	ArrayList<Course> registered;
+	ArrayList<Course> prevTaken = new ArrayList<Course>();
+	ArrayList<Course> registered = new ArrayList<Course>();
 	
 	//Joshua: Alex please provide a function allowing me to get password with sid(add a parameter in getPassword(Strong sid) OR Where you store the student list
 	
@@ -25,10 +25,11 @@ public class Student {
 		
 		String[] courseTakenRegistered = studentInfo[4].split("/");
 		
-		String[] courseTaken = courseTakenRegistered[0].split(" ");
-		String[] courseRegistered = courseTakenRegistered[1].split(" ");
+		String[] courseTaken = courseTakenRegistered[0].split(",");
+		String[] courseRegistered = courseTakenRegistered[1].split(",");
 		
 		for (int i=0;i<courseTaken.length;i++) {
+			System.out.println("getting " + courseTaken[i]);
 			prevTaken.add(Admin.getCourse(courseTaken[i]));
 		}
 		

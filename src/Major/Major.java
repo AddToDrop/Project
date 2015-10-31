@@ -4,7 +4,7 @@ import java.util.*;
 public abstract class Major {
 	
 	public Major () {
-		String majorName = new String();
+		String majorName = "";
 		ArrayList<Object> majorRequirementList = new ArrayList<Object>();
 	}
 }
