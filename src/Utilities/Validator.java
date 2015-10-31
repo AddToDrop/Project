@@ -47,15 +47,8 @@ public class Validator {
 				return false;
 			}else return true;
 		}
-		
-		
-		
 		return false;
 	}
-	//Session Validation
-	
-	//Course Validation
-	
 }
 
 	/*
