@@ -13,3 +13,7 @@ Area3 GE1305 EverydayPhysics:ItsImpactonYouandSociety
 Area3 GE1310 TheBiochemistryofAttraction
 Area3 GE1322 BrainMachineInterface:Technology,Culture,andSociety
 Area3 GE1325 FromIdeastoInnovativeDesign
+EngChiReq GE1401 University English
+EngChiReq GE2401 English for Science
+EngChiReq GE2402 English for Business Communication
+EngChiReq GE2410 English for Engineering
