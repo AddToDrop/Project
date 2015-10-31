@@ -37,7 +37,7 @@ public class Admin {
 	}
 	
 	private static void makeSession(){
-		File sessionInfo = new File("C:\\Users\\yanloklai3\\Desktop\\SessionInfo.txt");
+		File sessionInfo = new File("..\\SessionInfo.txt");
 		try {
 			Scanner sessionIn = new Scanner(sessionInfo);
 			
@@ -56,7 +56,7 @@ public class Admin {
 	}
 	
 	private static void makeCourse(){
-		File CourseInfo = new File("C:\\Users\\yanloklai3\\Desktop\\CourseInfo.txt");
+		File CourseInfo = new File("..\\CourseInfo.txt");
 		try {
 			Scanner courseIn = new Scanner(CourseInfo);
 			
