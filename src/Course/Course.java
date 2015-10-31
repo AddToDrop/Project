@@ -30,6 +30,10 @@ public abstract class Course {
 	public String getCourseTitle(){
 		return courseTitle;
 	}
+	
+	public String getCourseCode(){
+		return courseCode;
+	}
 
 	//function arraylist getCRN ()
 	public ArrayList getSessionCRN(){
@@ -67,6 +71,13 @@ public abstract class Course {
 		else if(info.equals("end"))
 			time = session.getEnd();
 		return time;
+	}
+	
+	public boolean isEquals(Course course){
+		if(this.getCourseCode().equals(course.getCourseCode()))
+			return true;
+		else
+			return false;
 	}
 
 }

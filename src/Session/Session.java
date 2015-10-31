@@ -9,11 +9,11 @@ public class Session {
 	
 	public Session(String session){
 		String[] sessionInfo = session.split(" ");
-		courseCode = sessionInfo[0];
-		CRN = sessionInfo[1];
-		day = Integer.parseInt(sessionInfo[2]);
-		start = Integer.parseInt(sessionInfo[3]);
-		end = Integer.parseInt(sessionInfo[4]);
+		this.courseCode = sessionInfo[0];
+		this.CRN = sessionInfo[1];
+		this.day = Integer.parseInt(sessionInfo[2]);
+		this.start = Integer.parseInt(sessionInfo[3]);
+		this.end = Integer.parseInt(sessionInfo[4]);
 	}
 	
 	public String getCRN(){

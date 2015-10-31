@@ -4,19 +4,20 @@ import java.util.ArrayList;
 
 import Course.Course;
 import Session.Session;
+import Setup.Admin;
 import Student.Student;
 
 public class Validator {
 	
 	//Password Validation
 	public static boolean passwordValidation(String userinputPwd,String SID){
-		//await Alex's response
-		if (userinputPwd.equals(Student.getPassword(SID))){
+		if (Admin.hashPwd(userinputPwd).equals((Admin.getStudent(SID)).getPassword())){
 			return true;
-		}else{
-		return false;
+		} else {
+			return false;
 		}
 	}
+	
 	//Time Conflict Validation
 	public static boolean timeConflictValidation(Session session1, Session session2){
 		int s1=session1.getDay();
