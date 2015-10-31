@@ -18,6 +18,10 @@ public class Session {
 		this.end = Integer.parseInt(sessionTime[2]);
 	}
 	
+	public String getCourseCode(){
+		return courseCode;
+	}
+	
 	public String getCRN(){
 		return CRN;
 	}

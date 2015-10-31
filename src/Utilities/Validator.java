@@ -10,11 +10,17 @@ import Student.Student;
 public class Validator {
 	
 	//Password Validation
-	public static boolean passwordValidation(String userinputPwd,String SID){
-		if (Admin.hashPwd(userinputPwd).equals((Admin.getStudent(SID)).getPassword())){
-			return true;
+	public static Student login(String SID, String pwd){
+		Student tmp = Admin.getStudent(SID);
+		
+		if (tmp==null){
+			return null;
+		}
+		
+		if (Admin.hashPwd(pwd).equals(tmp.getPassword())){
+			return tmp;
 		} else {
-			return false;
+			return null;
 		}
 	}
 	

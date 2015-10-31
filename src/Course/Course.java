@@ -10,21 +10,20 @@ import Setup.Admin;
 public abstract class Course {
 	private String courseCode;
 	private String courseTitle;
-	private HashMap<String, Session> sessionList;
+	private HashMap<String, Session> sessionList = new HashMap<String, Session>();
 	
 	public Course(String[] courseInfo){ //add hashmap and store
 		courseCode = courseInfo[1];
 		courseTitle = courseInfo[2];
-		HashMap<String, Session> sessionList = new HashMap<String, Session>();
 		
-		for(int i=3; i<courseInfo.length; i++){
-			String CRN = courseInfo[i];
-			Session session = Admin.searchSession(CRN);
-			if(session != null){
-				sessionList.put("CRN", session);
+		ArrayList<Session> tmp = Admin.getSessionForCourse(courseInfo[1]);
+		if(tmp!=null){
+			for (Session s:tmp) {
+				sessionList.put(s.getCRN(), s);
 			}
+		} else {
+			System.out.println("There is no session for " + courseInfo[1] + " " + courseInfo[2]);
 		}
-		
 	}
 	
 	public String getCourseTitle(){
@@ -62,7 +61,7 @@ public abstract class Course {
 	
 	//static version
 	public static int getSessionInfo(String CRN, String info){
-		Session session = Admin.searchSession(CRN);
+		Session session = Admin.getSession(CRN);
 		int time = 0;
 		if(info.equals("day"))
 			time = session.getDay();
