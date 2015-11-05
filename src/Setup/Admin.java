@@ -197,6 +197,6 @@ public class Admin {
 		return hashedPwd;
 	}
 	
-	
+	public static ArrayList<Course> getCourseList() {return courseList;}
 	
 }

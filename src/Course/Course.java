@@ -2,6 +2,7 @@ package Course;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Set;
 
 import Session.Session;
@@ -33,7 +34,15 @@ public abstract class Course {
 	public String getCourseCode(){
 		return courseCode;
 	}
-
+	
+	public ArrayList getSessionList() {
+		ArrayList<Session> session = new ArrayList<Session>();
+		for(Map.Entry<String, Session> s : sessionList.entrySet()) {
+			session.add(s.getValue());
+		}
+		return session;
+	}
+	
 	//function arraylist getCRN ()
 	public ArrayList<String> getSessionCRN(){
 		ArrayList<String> sessionCRNList = new ArrayList<String>();
