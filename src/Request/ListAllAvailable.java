@@ -39,6 +39,8 @@ public class ListAllAvailable extends Request {
 			}
 			
 			//Available - time available
+			//for the registered course, which session is the registered one?
+			/*
 			for(Course c1: availableList){
 				ArrayList<Session> sessionList = c1.getSessionList();
 				for(Session s1: sessionList) {
@@ -54,7 +56,7 @@ public class ListAllAvailable extends Request {
 					}
 				}
 			}
-			
+			*/
 			//outputResult(student.getSID(), taken, command);
 		}
 	}
