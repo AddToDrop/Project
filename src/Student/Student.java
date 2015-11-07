@@ -2,6 +2,7 @@ package Student;
 
 import java.util.ArrayList;
 
+import Session.Session;
 import Setup.Admin;
 import Course.Course;
 
@@ -12,7 +13,7 @@ public class Student {
 	String password;
 	String programme;
 	ArrayList<Course> prevTaken = new ArrayList<Course>();
-	ArrayList<Course> registered = new ArrayList<Course>();
+	ArrayList<Session> registered = new ArrayList<Session>();
 	
 	//Joshua: Alex please provide a function allowing me to get password with sid(add a parameter in getPassword(Strong sid) OR Where you store the student list
 	
@@ -34,7 +35,8 @@ public class Student {
 		}
 		
 		for (int i=0;i<courseRegistered.length;i++) {
-			registered.add(Admin.getCourse(courseRegistered[i]));
+			String sessionCRN = courseRegistered[i].substring(courseRegistered[i].lastIndexOf("_") + 1);
+			registered.add(Admin.getSession(sessionCRN));
 		}
 	}
 	
@@ -57,10 +59,10 @@ public class Student {
 	public ArrayList<Course> getPrevTaken() {
 		return this.prevTaken;
 	}
-	public void setRegistered(ArrayList<Course> registered) {
+	public void setRegistered(ArrayList<Session> registered) {
 		this.registered=registered;
 	}
-	public ArrayList<Course> getRegistered() {
+	public ArrayList<Session> getRegistered() {
 		return this.registered;
 	}
 	

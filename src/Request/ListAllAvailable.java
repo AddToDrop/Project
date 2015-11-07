@@ -18,7 +18,7 @@ public class ListAllAvailable extends Request {
 	public void process(Student student, String command) {
 		if (command.equalsIgnoreCase("ListAllAvailable")) {
 			ArrayList<Course> taken = student.getPrevTaken();
-			ArrayList<Course> registered = student.getRegistered();
+			ArrayList<Session> registered = student.getRegistered();
 			ArrayList<Course> courseList = Admin.getCourseList();
 			ArrayList<Course> availableList = courseList;
 			
@@ -32,8 +32,8 @@ public class ListAllAvailable extends Request {
 			
 			//Available - Registered
 			for(Course c1: availableList) {
-				for(Course c2: registered) {
-					if(c1.getCourseCode().equals(c2.getCourseCode()))
+				for(Session s1: registered) {
+					if(c1.getCourseCode().equals(s1.getCourseCode()))
 							availableList.remove(c1);
 				}
 			}
