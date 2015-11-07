@@ -65,7 +65,7 @@ public class ListAllAvailable extends Request {
 		File result = new File(".\\Result\\" + SID + "_" + command);
 		try {
 			FileOutputStream fos = new FileOutputStream(result);
-			
+			//please close the fos asap
 			ArrayList<String> strResult = new ArrayList<String>();
 			strResult.add(command);
 			strResult.add("--------------------------------------------------");
