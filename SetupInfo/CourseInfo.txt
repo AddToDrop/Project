@@ -2,7 +2,7 @@ Area1 GE1101 ChineseCulturalHeritageinModernPerspective
 Area1 GE1104 ChineseCulturalCanonsandTheirModernApplication
 Area1 GE1107 TheCityinChineseHistoryandCulture
 Area1 GE1110 ExploringContemporaryArt
-Area1 GE112 Ch·nCultureandContemporarySociety
+Area1 GE112 Ch√°nCultureandContemporarySociety
 Area2 GE1201 InformationManagementandItsSocialImpact
 Area2 GE1202 ManagingYourPersonalFinance
 Area2 GE1204 LivingwiththeUnexpectedandUnknowninModernSociety
@@ -17,3 +17,67 @@ EngChiReq GE1401 University English
 EngChiReq GE2401 English for Science
 EngChiReq GE2402 English for Business Communication
 EngChiReq GE2410 English for Engineering
+CollegeReq SM1701 Contemporary and New Media Art
+CollegeReq SM1702 Creative Media Studio I
+CollegeReq SM2702 Interdisciplinary Practices in Art, Science and the Humanities
+CollegeReq SM2703 Creative Media Colloquium
+CollegeReq CS1103 Introduction to Media Computing
+CollegeReq CS1303 Introduction to Internet and Programming
+CollegeReq MA1200 Calculus and Basic Linear Algebra I
+CollegeReq MA1300 Enhanced Calculus and Linear Algebra I
+CollegeReq MA1201 Calculus and Basic Linear Algebra II
+CollegeReq MA1301 Enhanced Calculus and Linear Algebra II
+CollegeReq SEE1002 Introduction to Computing for Energy and Environment
+CollegeReq AP1201 General Physics I 
+CollegeReq BCH1100 Chemistry
+CollegeReq BCH1200 Discovery in Biology
+CollegeReq LW2600 Legal Research and Writing
+CollegeReq LW2601 Hong Kong Legal System
+CollegeReq LW2602A Law of Contract I
+CollegeReq LW2602B Law of Contract II
+CollegeReq LW2603A Law of Tort I
+CollegeReq LW2603B Law of Tort II
+CollegeReq LW3666 Legal Research and Writing I
+//CM Major
+MajorReq SM2704 Creative Media Studio II
+MajorReq SM2705 Creative Media Studio III : Technology, Coding and Tangible Media
+MajorReq SM2706 Critical Theory & Socially Engaged Practices
+MajorReq SM2105 Narrative Strategies & Aesthetics of Time-based Media
+MajorReq CS2116 Computer Systems
+MajorReq CS2313 Computer Programming
+MajorReq SM3601 Games Prototyping and Design
+MajorReq SM3611 New Media for Installation, Events and Performance
+MajorReq CS2303 Data Structure for Media
+MajorReq CS3402 Database Systems
+MajorReq CS3347 Software Engineering Principles & Practice
+MajorReq SM2714 Fundamentals of Animation
+MajorReq JC2001 Introduction to the Sciences for Artists
+MajorReq MA1005 Mathematics & Art
+//SEE Major
+MajorReq SEE2001 Electromagnetic Principles for Energy Engineers 
+MajorReq SEE2002 Chemical Sciences for Energy Engineers
+MajorReq MA2172 Applied Statistics for Sciences and Engineering
+MajorReq MA2181 Mathematical Methods for Engineering
+MajorReq SEE2101 Thermosciences for Energy Conversion I
+MajorReq SEE2201 Introduction to Environmental Engineering
+MajorReq SEE3001 Energy and Energy-related Environmental Policy 
+MajorReq SEE3002 Energy and Energy-related Environmental Economics 
+MajorReq SEE3101 Thermosciences for Energy Conversion II 
+MajorReq SEE3102 Power Plant Engineering
+MajorReq SEE3103 Energy Efficiency for Buildings
+MajorReq SEE3104 Sustainable and Renewable Energy
+MajorReq SEE4001 Engineers in Society
+MajorReq SEE4112 Energy Systems: Modelling and Analysis
+MajorReq BCH4040 Environmental Impact Assessment
+MajorReq SEEM4024 Project Management
+//Law
+MajorReq LW2665 Mooting
+MajorReq LW3604 Legal System of the PRC
+MajorReq LW3609 Legal Chinese
+MajorReq LW3605B Administrative Law
+MajorReq LW3606B Criminal Law II
+MajorReq LW3607A Land Law I
+MajorReq LW4656 Company Law I
+MajorReq LW3607B Land Law II
+MajorReq LW3608 Applied Legal Theory
+MajorReq LW4657 Company Law II
