@@ -81,3 +81,71 @@ MajorReq LW4656 Company Law I
 MajorReq LW3607B Land Law II
 MajorReq LW3608 Applied Legal Theory
 MajorReq LW4657 Company Law II
+//CM
+MajorElectiveReq SM3703 Media Art and the Environment
+MajorElectiveReq SM3706	BioArt
+MajorElectiveReq SM2259	Game and Play Studies
+MajorElectiveReq SM2260	Interactive Narrative
+MajorElectiveReq SM1006	Documentary
+MajorElectiveReq SM2007	Culture, Society and New Technologies
+MajorElectiveReq SM2228	Understanding Animation
+MajorElectiveReq SM2231	3D Animation I - Basic
+MajorElectiveReq SM2002	The Art of Editing
+MajorElectiveReq SM2206	Television Commercials
+MajorElectiveReq SM2205	Computational Cinema
+MajorElectiveReq SM2213	Programming Languages
+MajorElectiveReq SM2202	Micro-Narratives
+MajorElectiveReq SM2220	Generative Art
+MajorElectiveReq SM1013	Introduction to Photography
+MajorElectiveReq SM1201	Studio Photography
+MajorElectiveReq SM2242	Audio Recording Arts
+MajorElectiveReq SM2276	Music Studio Production
+MajorElectiveReq SM2274	History of Cinema
+MajorElectiveReq SM2290	Cinema and Politics
+MajorElectiveReq SM2233	Multimedia Production Project
+MajorElectiveReq SM2710	Curatorial Practice
+//SEE
+MajorElectiveReq SEE4111 Nuclear Energy Engineering
+MajorElectiveReq SEE4113 Nanotechnology in Energy Conversion and Storage: Concepts and Creative Science
+MajorElectiveReq SEE4114 Bioenergy Engineering: Principles and Applications
+MajorElectiveReq SEE4115 Energy Catalysis and Reaction Engineering
+MajorElectiveReq SEE4116 Energy and Carbon Auditing
+MajorElectiveReq SEE3201 Atmospheric Science – An Introductory Survey
+MajorElectiveReq SEE4202 Atmospheric Chemistry
+MajorElectiveReq SEE4213 An Introduction to Environmental Data Analysis
+MajorElectiveReq SEE4216 Air Pollution Measurement and Control
+MajorElectiveReq SEE4217 Waste and Wastewater Treatment
+MajorElectiveReq SEE4218 Water Quality Engineering
+//Law
+MajorElectiveReq LW4616 Law of Evidence
+MajorElectiveReq LW4630 Equity and Trusts
+MajorElectiveReq LW4612 Legal Placement
+MajorElectiveReq LW4613 Private International Law 
+MajorElectiveReq LW4614 Dispute Resolution
+MajorElectiveReq LW4615 Insurance Law 
+MajorElectiveReq LW4617 Family Law in Hong Kong
+MajorElectiveReq LW4618 Law and Gender
+MajorElectiveReq LW4620 International Trade Regulation 
+MajorElectiveReq LW4621 Law of International Sales & Finance
+MajorElectiveReq LW4622 Law of Human Rights and Civil Liberties
+MajorElectiveReq LW4631 Banking Law
+MajorElectiveReq LW4637 Criminology
+PECourse PED1101 Canoeing
+PECourse PED1102 Snorkel Diving
+PECourse PED1103 Swimming
+PECourse PED1203 Social Dance
+PECourse PED1305 Physical Fitness
+PECourse PED1306 Step Aerobic
+PECourse PED1308 Fitball
+PECourse PED1309 Pilates Mat
+PECourse PED1310 Yoga Refreshing
+PECourse PED1311 Yoga Dynamic 
+PECourse PED1401 Fencing
+PECourse PED1402 Golf
+PECourse PED1404 Archery
+FreeElective CLA2601 Spanish 1
+FreeElective CLA2602 Spanish 2
+FreeElective CLA3603 Spanish 3
+FreeElective CLA3604 Spanish 4
+FreeElective AIS2973 Korean I
+FreeElective AIS2974 Korean II
