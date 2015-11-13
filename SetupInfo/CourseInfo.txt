@@ -119,7 +119,6 @@ MajorElectiveReq SEE4218 Water Quality Engineering
 //Law
 MajorElectiveReq LW4616 Law of Evidence
 MajorElectiveReq LW4630 Equity and Trusts
-MajorElectiveReq LW4612 Legal Placement
 MajorElectiveReq LW4613 Private International Law 
 MajorElectiveReq LW4614 Dispute Resolution
 MajorElectiveReq LW4615 Insurance Law 
