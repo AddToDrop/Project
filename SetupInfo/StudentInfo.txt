@@ -1,1 +1,8 @@
-AlexJEONG 53152722 passwordAlex BSC4 SM1000,SM1001,SM1002/SM1003_CRN,SM1004,SM1005
+JeongDoHyung 53152722 passwordAlex BSC4 SM1000,SM1001,SM1002/SM1003_CRN,SM1004,SM1005
+LaiYanLok 53571049 passwordEcho 
+WongNokChing 53568402 passwordJoshua 
+YeungZhi-I 53083503 passwordTom 
+ChanTszYan 53557995 passwordChan
+ChanKaMan 53555492 passwordCarman 
+LeungWingKi 53573240 passwordLeung 
+LeeSeeWai 53073221 passwordLee 
