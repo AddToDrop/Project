@@ -29,14 +29,19 @@ public class Student {
 		String[] courseTaken = courseTakenRegistered[0].split(",");
 		String[] courseRegistered = courseTakenRegistered[1].split(",");
 		
-		for (int i=0;i<courseTaken.length;i++) {
-			System.out.println("getting " + courseTaken[i]);
-			prevTaken.add(Admin.getCourse(courseTaken[i]));
+		if (!courseTaken[0].equalsIgnoreCase("null")){
+			for (int i=0;i<courseTaken.length;i++) {
+				if (Admin.getCourse(courseTaken[i])!=null)
+					prevTaken.add(Admin.getCourse(courseTaken[i]));
+			}
 		}
 		
-		for (int i=0;i<courseRegistered.length;i++) {
-			String sessionCRN = courseRegistered[i].substring(courseRegistered[i].lastIndexOf("_") + 1);
-			registered.add(Admin.getSession(sessionCRN));
+		if (!courseRegistered[0].equalsIgnoreCase("null")){
+			for (int i=0;i<courseRegistered.length;i++) {
+				String sessionCRN = courseRegistered[i].substring(courseRegistered[i].lastIndexOf("_") + 1);
+				if (Admin.getSession(sessionCRN)!=null)
+					registered.add(Admin.getSession(sessionCRN));
+			}
 		}
 	}
 	

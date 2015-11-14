@@ -124,7 +124,7 @@ MajorElectiveReq#LLB#LW4620#International Trade Regulation
 MajorElectiveReq#LLB#LW4621#Law of International Sales & Finance
 MajorElectiveReq#LLB#LW4622#Law of Human Rights and Civil Liberties
 MajorElectiveReq#LLB#LW4631#Banking Law
-MajorElectiveReq#LW4637#Criminology#
+MajorElectiveReq#LLB#LW4637#Criminology
 PECourse#ALL#PED1101#Canoeing
 PECourse#ALL#PED1102#Snorkel Diving
 PECourse#ALL#PED1103#Swimming

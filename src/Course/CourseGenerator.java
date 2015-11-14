@@ -3,7 +3,7 @@ package Course;
 public class CourseGenerator {
 	
 	public static Course createCourse(String course){
-		String[] courseInfo = course.split(" ");
+		String[] courseInfo = course.split("#");
 		String courseType = courseInfo[0];
 		
 		if (courseType.equals("Area1"))

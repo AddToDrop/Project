@@ -9,13 +9,18 @@ import Session.Session;
 import Setup.Admin;
 
 public abstract class Course {
+	private ArrayList<String> collegeOrMajor = new ArrayList<String>();
 	private String courseCode;
 	private String courseTitle;
 	private HashMap<String, Session> sessionList = new HashMap<String, Session>();
+	private ArrayList<ArrayList<Course>> preReqList = new ArrayList<ArrayList<Course>>();
 	
 	public Course(String[] courseInfo){ //add hashmap and store
-		courseCode = courseInfo[1];
-		courseTitle = courseInfo[2];
+		for (String colOrmaj:courseInfo[1].split("/")) {
+			collegeOrMajor.add(colOrmaj);
+		}
+		courseCode = courseInfo[2];
+		courseTitle = courseInfo[3];
 		
 		ArrayList<Session> tmp = Admin.getSessionForCourse(courseInfo[1]);
 		if(tmp!=null){
@@ -25,6 +30,9 @@ public abstract class Course {
 		} else {
 			System.out.println("There is no session for " + courseInfo[1] + " " + courseInfo[2]);
 		}
+	}
+	public ArrayList<String> getColOrMaj(){
+		return collegeOrMajor;
 	}
 	
 	public String getCourseTitle(){
@@ -86,6 +94,14 @@ public abstract class Course {
 			return true;
 		else
 			return false;
+	}
+	
+	public void addPreReq(ArrayList<Course> preReq){
+		preReqList.add(preReq);
+	}
+	
+	public ArrayList<ArrayList<Course>> getPreReq(){
+		return preReqList;
 	}
 
 }
