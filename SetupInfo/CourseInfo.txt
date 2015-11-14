@@ -14,9 +14,9 @@ Area3#ALL#GE1310#The Biochemistry of Attraction
 Area3#ALL#GE1322#Brain MachineInterface: Technology, Culture and Society
 Area3#ALL#GE1325#From Ideas to Innovative Design
 EngChiReq#ALL#GE1401#University English
-EngChiReq#ALL#GE2401#English for Science
-EngChiReq#ALL#GE2402#English for Business Communication
-EngChiReq#ALL#GE2410#English for Engineering
+EngChiReq#SEE/SCM#GE2401#English for Science
+EngChiReq#SEE/SCM#GE2410#English for Engineering
+EngChiReq#LAW/SCM#GE2411#Legal English
 CollegeReq#SCM#SM1701#Contemporary and New Media Art
 CollegeReq#SCM#SM1702#Creative Media Studio I
 CollegeReq#SCM#SM2702#Interdisciplinary Practices in Art, Science and the Humanities
