@@ -1,13 +1,51 @@
-JeongDoHyung 53152722 passwordAlex BACM SM1000,SM1001,SM1002/SM1003_CRN,SM1004,SM1005
-WongNokChing 53568402 passwordJoshua BEngESE
-LeeSeeWai 53073221 passwordLee BEngESE
-LaiYanLok 53571049 passwordEcho BSCCM
-YeungZhi-I 53083503 passwordTom LLB
-ChanKaMan 53555492 passwordCarman LLB
-LeungWingKi 53573240 passwordLeung BAS
-ChanTszYan 53557995 passwordChan BAS
-FulkeYeong
-BarryJoseph
-FraserQuinten
-WillisYeong
-DarrinPresley
+DoHyungJeong 53152722 passwordAlex BACM SM1000,SM1001,SM1002/SM1003_CRN,SM1004,SM1005
+RonaldRichardson 50000001 password LLB
+BelindaWashington 50000002 password LLB
+SamuelLloyd 50000003 password LLB
+BrandiVaughn 50000004 password LLB
+PaulineBallard 50000005 password LLB
+PaulBoyd 50000006 password LLB
+EugeneErickson 50000007 password LLB
+AnnetteNewton 50000008 password LLB
+BetsyPrice 50000009 password LLB
+EdnaBuchanan 50000010 password BACM
+LyleHoward 50000011 password BACM
+OwenSimon 50000012 password BACM
+IraHansen 50000013 password BACM
+BennyNichols 50000014 password BACM
+ChristianKim 50000015 password BACM
+JosefinaHawkins 50000016 password BACM
+DerrickTyler 50000017 password BACM
+JodyOsborne 50000018 password BACM
+GilbertoSantiago 50000019 password BACM
+WendyNorman 50000020 password BACM
+DaisyGriffin 50000021 password BSCCM
+AllanSimmons 50000022 password BSCCM
+JessicaReyes 50000023 password BSCCM
+EleanorSparks 50000024 password BSCCM
+JaniceTucker 50000025 password BSCCM
+DebraAustin 50000026 password BSCCM
+HarryParsons 50000027 password BSCCM
+MelindaSchmidt 50000028 password BSCCM
+ShannonHolland 50000029 password BSCCM
+TonyaBates 50000030 password BSCCM
+GretchenLove 50000031 password BAS
+MarvinPena 50000032 password BAS
+LynetteMunoz 50000033 password BAS
+KelvinBlair 50000034 password BAS
+HeidiLucas 50000035 password BAS
+LoreneHudson 50000036 password BAS
+RooseveltSullivan 50000037 password BAS
+PabloBishop 50000038 password BAS
+StacyFreeman 50000039 password BAS
+MarioLowe 50000040 password BAS
+IsabelCobb 50000041 password BEngSE
+NicholasDay 50000042 password BEngSE
+LionelPoole 50000043 password BEngSE
+BlancaMorgan 50000044 password BEngSE
+WarrenFrank 50000045 password BEngSE
+IsraelYoung 50000046 password BEngSE
+AnitaWatts 50000047 password BEngSE
+VelmaCastro 50000048 password BEngSE
+KimPatton 50000049 password BEngSE
+JackRamirez 50000050 password BEngSE
