@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.Scanner;
 
 import Course.Course;
@@ -26,15 +27,24 @@ public class Admin {
 	public static void main(String[] args){
 		makeSession();
 		makeCourse();
-		makeStudent();
+		//makeStudent();
 		
 		//for print out
-		for (int i=0;i<sessionList.size();i++){
-			System.out.println("Session " + i + " CRN: " + sessionList.get(i).getCRN());
-		}
 		
 		for (int i=0;i<courseList.size();i++){
-			System.out.println("Course " + i + " Title: " + courseList.get(i).getCourseTitle());
+			System.out.println(i+ ". Course: " + courseList.get(i) + " Title: " + courseList.get(i).getCourseTitle());
+			System.out.println("--------------------------------");
+			
+			int nOfSess = courseList.get(i).getSessionList().size();
+			if (nOfSess>=1) {
+				for (int j=0; j<nOfSess; j++) {
+					Session temp = (Session)courseList.get(i).getSessionList().get(j);
+					System.out.println(temp.getCourseCode() + " " + temp.getCRN());
+					System.out.println();
+				}
+			} else {
+				System.out.println("No session for this course");
+			}
 		}
 	}
 	
