@@ -2,7 +2,7 @@ Area1#ALL#GE1101#Chinese Cultural Heritagein Modern Perspective
 Area1#ALL#GE1104#Chinese Cultural Canonsand Their Modern Application
 Area1#ALL#GE1107#The City in Chinese History and
 Area1#ALL#GE1110#Exploring Contemporary Art
-Area1#ALL#GE112#Chán Culture and Contemporary Society
+Area1#ALL#GE1112#Chán Culture and Contemporary Society
 Area2#ALL#GE1201#Information Management and Its Social Impact
 Area2#ALL#GE1202#Managing Your Personal Finance
 Area2#ALL#GE1204#Living with the Unexpected and Unknown Modern Society
