@@ -2,6 +2,8 @@ package setup;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
@@ -33,89 +35,41 @@ public class Admin {
 
 	
 
-	public static void main(String[] args){
-		makeSession();
-		makeCourse();
-		linkPrereq();
-		makeMajor();
-		makeCollege();
-		makeStudent();
-		
-		//for print out
-		for (int i=0;i<courseList.size();i++){
-			Course target = courseList.get(i);
-			System.out.println();
-			System.out.println(i+ ". Course: " + target.getCourseCode() + " Title: " + target.getCourseTitle());
-			System.out.println("--------------------------------------------------");
-			
-			System.out.println();
-			System.out.println("Session Check");
-			int nOfSess = target.getSessionList().size();
-			if (nOfSess>=1) {
-				for (int j=0; j<nOfSess; j++) {
-					Session temp = (Session)target.getSessionList().get(j);
-					System.out.println("Session: " + temp.getCourseCode() + " " + temp.getCRN());
-					
-				}
-				System.out.println();
-			} else {
-				System.out.println("No session for this course");
-				System.out.println();
-			}
-			
-			System.out.println();
-			System.out.println("College or Major Check");
-			for (String str:target.getColOrMaj()){
-				System.out.println("College or Major: " + str);
-			}
-			
-			System.out.println();
-			System.out.println("PreReq Check");
-			if (target.getPreReq().size()!=0){
-				for (ArrayList<Course> req:target.getPreReq()){
-					if (req.size()==0){
-						System.out.println("No PreReq2");
-					} else if (req.size()==1) {
-						System.out.println(req.get(0).getCourseCode());
-					} else {
-						for (Course course:req) {
-							System.out.println();
+	public static boolean startSetup() {
+		if (makeSession()) {
+			if (makeCourse()){
+				if (linkPrereq()) {
+					if (makeMajor()) {
+						if (makeCollege()) {
+							if (makeStudent()) {
+								return true;
+							} else {
+								System.out.println("makeStudent error");
+								return false;
+							}
+						} else {
+							System.out.println("makeCollege error");
+							return false;
 						}
-						System.out.println();
+					} else {
+						System.out.println("makeMajor error");
+						return false;
 					}
+				} else {
+					System.out.println("linkPrereq error");
+					return false;
 				}
 			} else {
-				System.out.println("No PreReq1");
+				System.out.println("makeCourse error");
+				return false;
 			}
+		} else {
+			System.out.println("make session error");
+			return false;
 		}
-		System.out.println();
-		System.out.println();
-		for (Major major:majorList) {
-			System.out.println("Major: " + major.getName());
-			System.out.println("--------------------------------------------------");
-			for(Course course:major.getMajorElecReq()){
-				System.out.println("ElecReq: " + course.getCourseCode());
-			}
-			for(Course course:major.getMajorReqList()){
-				System.out.println("MajorReq: " + course.getCourseCode());
-			}
-		}
-		System.out.println();
-		System.out.println();
-		for (College college:collegeList) {
-			System.out.println("College: " + college.getName());
-			System.out.println("--------------------------------------------------");
-			for(Major major:college.getMajorList()){
-				System.out.println("Major: " + major.getName());
-			}
-			for(Course course:college.getCollegeReqList()){
-				System.out.println("CollegeReq: " + course.getCourseCode());
-			}
-		}
-		
 	}
 	
-	private static void makeSession(){
+	private static boolean makeSession(){
 		File sessionInfo = new File(".\\SetupInfo\\SessionInfo.txt");
 		try {
 			Scanner sessionIn = new Scanner(sessionInfo);
@@ -126,20 +80,24 @@ public class Admin {
 					Session tmp = new Session(session);
 					if (getSession(tmp.getCRN())==null) {
 						sessionList.add(tmp);
-						System.out.println("Session " + tmp.getCRN() + " created");
+						//System.out.println("Session " + tmp.getCRN() + " created");
 					} else {
 						System.out.println("Duplicate!! " + tmp.getCRN() + " alrealy exists");
+						sessionIn.close();
+						return false;
 					}
 				}
 			}
 			
 			sessionIn.close();
+			return true;
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
+			return false;
 		}
 	}
 	
-	private static void makeCourse(){
+	private static boolean makeCourse(){
 		File CourseInfo = new File(".\\SetupInfo\\CourseInfo.txt");
 		try {
 			Scanner courseIn = new Scanner(CourseInfo);
@@ -150,19 +108,22 @@ public class Admin {
 					Course tmp = CourseGenerator.createCourse(course);
 					if (getCourse(tmp.getCourseCode())==null) {
 						courseList.add(tmp);
-						System.out.println("Course " + tmp.getCourseCode() + " created");
+						//System.out.println("Course " + tmp.getCourseCode() + " created");
 					} else {
 						System.out.println("Duplicate!! " + tmp.getCourseCode() + " alrealy exists");
+						return false;
 					}
 				}
 			}
 			
 			courseIn.close();
+			return true;
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
+			return false;
 		}
 	}
-	private static void linkPrereq() {
+	private static boolean linkPrereq() {
 		File preReqInfo = new File(".\\SetupInfo\\Pre-requisitesInfo.txt");
 		try {
 			Scanner preReqIn = new Scanner(preReqInfo);
@@ -190,11 +151,13 @@ public class Admin {
 				}
 			}
 			preReqIn.close();
+			return true;
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
+			return false;
 		}
 	}
-	private static void makeStudent(){
+	private static boolean makeStudent(){
 		File StudentInfo = new File(".\\SetupInfo\\StudentInfo.txt");
 		try {
 			Scanner studentIn = new Scanner(StudentInfo);
@@ -205,20 +168,23 @@ public class Admin {
 					Student tmp = new Student(student);
 					if (getStudent(tmp.getSID())==null) {
 						studentList.add(tmp);
-						System.out.println("Student " + tmp.getName() + " " + tmp.getSID() + " created");
+						//System.out.println("Student " + tmp.getName() + " " + tmp.getSID() + " created");
 					} else {
 						System.out.println("Duplicate!! " + tmp.getSID() + " alrealy exists");
+						return false;
 					}
 					
 				}
 			}
 			studentIn.close();
+			return true;
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
+			return false;
 		}
 	}
 	
-	private static void makeMajor(){
+	private static boolean makeMajor(){
 		File majorInfo = new File(".\\SetupInfo\\MajorInfo.txt");
 		try {
 			Scanner majorIn = new Scanner(majorInfo);
@@ -230,9 +196,10 @@ public class Admin {
 					if (tmp!=null) {
 						if (Admin.getMajor(tmp.getName())==null) {
 							majorList.add(tmp);
-							System.out.println("Major " + tmp.getName() + " created");
+							//System.out.println("Major " + tmp.getName() + " created");
 						} else {
 							System.out.println("Duplicate!! " + tmp.getName() + " alrealy exists");
+							return false;
 						}
 						
 						
@@ -241,13 +208,15 @@ public class Admin {
 				}
 			}
 			majorIn.close();
+			return true;
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
+			return false;
 		}
 	}
 	
 	
-	private static void makeCollege(){
+	private static boolean makeCollege(){
 		File collegeInfo = new File(".\\SetupInfo\\CollegeInfo.txt");
 		try {
 			Scanner collegeIn = new Scanner(collegeInfo);
@@ -259,23 +228,28 @@ public class Admin {
 					if (tmp!=null) {
 						if (Admin.getCollege(tmp.getName())==null){
 							collegeList.add(tmp);
-							System.out.println("College " + tmp.getName() + " created");
+							//System.out.println("College " + tmp.getName() + " created");
 						} else {
 							System.out.println("Duplicate!! " + tmp.getName() + " alrealy exists");
+							return false;
 						}
 					} 
 					
 				}
 			}
 			collegeIn.close();
+			return true;
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
+			return false;
 		}
 	}
 	
-	private static void getRequest() {
+	public static void getRequest() {
+		System.out.println("getting request");
 		File requestDir = new File (".\\Requests\\");
 		File[] requests = requestDir.listFiles();
+		System.out.println(requests.length + " requests in total");
 		try {
 		//login
 		for (File f:requests) {
@@ -284,19 +258,30 @@ public class Admin {
 			
 			String SID = requestIn.nextLine();
 			String pwd = requestIn.nextLine();
+			String command = requestIn.nextLine();
 			
 			Student student = Validator.login(SID, pwd);
 			
 			if (student!=null) {
-				String command = requestIn.nextLine();
-				
 				ArrayList<String> courseList = new ArrayList<String>();
 				while (requestIn.hasNext()) {
 					courseList.add(requestIn.nextLine());
 				}
 				requestIn.close();
 				RequestProcessor rp = new RequestProcessor();
+				System.out.println("start process the request");
 				rp.processRequest(student, command, courseList);
+			} else {
+				File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
+				try {
+					FileOutputStream fos = new FileOutputStream(result);
+					
+					fos.write("Invalid sid or password, Please check".getBytes());
+				} catch (FileNotFoundException e) {
+					e.printStackTrace();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}		
 			}
 		}
 			

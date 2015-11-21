@@ -36,4 +36,38 @@ public class Session {
 	public int getEnd(){
 		return end;
 	}
+	
+	public boolean isEqual(Session s) {
+        if(!s.getCourseCode().equals(this.getCourseCode()))
+            return false;
+        if(!s.getCRN().equals(this.getCRN()))
+            return false;
+        if(s.getDay() != this.getDay())
+            return false;
+        if(s.getStart() != this.getStart())
+            return false;
+        if(s.getEnd() != this.getEnd())
+            return false;
+        return true;
+    }
+	
+	public String getDayStr() {
+		if (day == 1)
+			return "Monday";
+		else if (day == 2)
+			return "Tuesday";
+		else if (day == 3)
+			return "Wednesday";
+		else if (day == 4)
+			return "Thursday";
+		else if (day == 5)
+			return "Friday";
+		else if (day == 6)
+			return "Saturday";
+		else if (day == 7)
+			return "Sunday";
+		else
+			return "";
+		
+	}
 }
