@@ -1,0 +1,18 @@
+ListTaken
+--------------------------------------------------
+GE1401 University English
+CRN: 47327
+Time: Tuesday 1500-1750
+
+SM1701 Contemporary and New Media Art
+CRN: 39195
+Time: Thursday 1500-1750
+
+SM1702 Creative Media Studio I
+CRN: 38734
+Time: Thursday 0900-1150
+
+CS1103 Introduction to Media Computing
+CRN: 47967
+Time: Monday 1200-1450
+

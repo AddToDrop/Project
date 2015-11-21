@@ -1,0 +1,18 @@
+ListTaken
+--------------------------------------------------
+SM2704 Creative Media Studio II
+CRN: 42322
+Time: Tuesday 1200-1450
+
+SM2705 Creative Media Studio III : Technology, Coding and Tangible Media
+CRN: 42329
+Time: Monday 1500-1750
+
+CS2116 Computer Systems
+CRN: 45516
+Time: Friday 1300-1450
+
+CS2313 Computer Programming
+CRN: 43175
+Time: Wednesday 0900-1050
+

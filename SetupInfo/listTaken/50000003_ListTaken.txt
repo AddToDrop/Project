@@ -1,0 +1,24 @@
+ListTaken
+--------------------------------------------------
+GE1401 University English
+GE1202 Managing Your Personal Finance
+LW2600 Legal Research and Writing
+GE1107 The City in Chinese History and
+GE1112 Chán Culture and Contemporary Society
+GE1310 The Biochemistry of Attraction
+GE2411 Legal English
+LW2600 Legal Research and Writing
+LW2602A Law of Contract I
+LW2602B Law of Contract II
+LW2601 Hong Kong Legal System
+LW2603A Law of Tort I
+LW2603B Law of Tort II
+LW2665 Mooting
+LW3604 Legal System of the PRC
+LW3609 Legal Chinese
+LW3605A Constitutional Law
+LW3605B Administrative Law
+LW3606A Criminal Law I
+LW3606B Criminal Law II
+LW3607A Land Law I
+LW3607B Land Law II
