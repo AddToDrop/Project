@@ -1,4 +1,4 @@
-package College;
+package college;
 import java.util.*;
 
 import Major.Major;
