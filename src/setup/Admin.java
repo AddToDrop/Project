@@ -104,6 +104,7 @@ public class Admin {
 			
 			while (courseIn.hasNext()) {
 				String course = courseIn.nextLine();
+				System.out.println(course);
 				if (!course.isEmpty()) {
 					Course tmp = CourseGenerator.createCourse(course);
 					if (getCourse(tmp.getCourseCode())==null) {

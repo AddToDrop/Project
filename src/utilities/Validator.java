@@ -25,6 +25,8 @@ public class Validator {
 	}
 	
 	//Time Conflict Validation
+	//true: overlap
+	//false: no overlap
 	public static boolean timeConflictValidation(Session session1, Session session2){
 		int s1=session1.getDay();
 		int s1s=session1.getStart();

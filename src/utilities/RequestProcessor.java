@@ -3,6 +3,7 @@ package utilities;
 import java.util.ArrayList;
 
 import course.Course;
+import request.ListAllAvailable;
 import request.ListTakenRegistered;
 import student.Student;
 
@@ -12,7 +13,8 @@ public class RequestProcessor {
 			ListTakenRegistered request = new ListTakenRegistered();
 			request.process(student, command);
 		} else if (command.equalsIgnoreCase("ListAllAvailable")) {
-			
+			ListAllAvailable request = new ListAllAvailable();
+			request.process(student, command);
 		}
 	}
 		

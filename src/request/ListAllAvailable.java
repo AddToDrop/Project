@@ -18,50 +18,67 @@ public class ListAllAvailable extends Request {
 	public void process(Student student, String command) {
 		if (command.equalsIgnoreCase("ListAllAvailable")) {
 			ArrayList<Course> taken = student.getPrevTaken();
-			ArrayList<Session> registered = student.getRegistered();
+			ArrayList<Session> registeredSessions = student.getRegistered();
+			ArrayList<Course> registeredCourses = new ArrayList<Course>();
 			ArrayList<Course> courseList = Admin.getCourseList();
-			ArrayList<Course> availableList = courseList;
+			ArrayList<Course> availableCourses = new ArrayList<Course>();
+			ArrayList<Session> availableSessions = new ArrayList<Session>();
 			
-			//List All - List Taken 
-			for(Course c1: courseList) {
-				for(Course c2: taken) {
-					if(c1.getCourseCode().equals(c2.getCourseCode()))
-							availableList.remove(c1);
-				}
+			//convert registered sessions to courses
+			for (Session session:registeredSessions){
+				registeredCourses.add(Admin.getCourse(session.getCourseCode()));
 			}
 			
-			//Available - Registered
-			for(Course c1: availableList) {
-				for(Session s1: registered) {
-					if(c1.getCourseCode().equals(s1.getCourseCode()))
-							availableList.remove(c1);
-				}
-			}
-			
-			//Available - time available
-			//for the registered course, which session is the registered one?
-			/*
-			for(Course c1: availableList){
-				ArrayList<Session> sessionList = c1.getSessionList();
-				for(Session s1: sessionList) {
-					for(Course c2: registered) {
-						ArrayList<Session> rSessionList = c2.getSessionList(); 
-						int crushCounter = 0;
-						for(Session s2: rSessionList) {
-							if(Validator.timeConflictValidation(s1, s2) == true)
-								crushCounter++;
+			//if not taken && if not registered && if satisfied the pre-requisites, then add to availableCourses
+			for (Course possible : courseList) {
+				if (!taken.contains(possible)) {
+					if (!registeredCourses.contains(possible)) {
+						ArrayList<ArrayList<Course>> preReq = possible.getPreReq();
+						if (preReq != null && !preReq.isEmpty()) {
+							int numOfConditions = preReq.size();
+							int numOfSatisfied = 0;
+							for (ArrayList<Course> condition:preReq) {
+								if (condition.size() == 1) {
+									if (taken.contains(condition.get(0))){
+										numOfSatisfied++;
+									}
+								} else if (condition.size() > 1) {
+									for (Course subCondition:condition){
+										if (taken.contains(subCondition)){
+											numOfSatisfied++;
+											break;
+										}
+									}
+								}
+							}
+							
+							if (numOfConditions==numOfSatisfied){
+								availableCourses.add(possible);
+							}
 						}
-						if(crushCounter == sessionList.size())
-							availableList.remove(c1);
 					}
 				}
 			}
-			*/
-			//outputResult(student.getSID(), taken, command);
+			
+			//from available courses, get the available session that doesn't have time conflicts
+			for (Course availble:availableCourses){
+				ArrayList<Session> possibleList = availble.getSessionList();
+				for (Session possibleSess:possibleList){
+					for (Session registeredSess:registeredSessions) {
+						if (!Validator.timeConflictValidation(possibleSess, registeredSess)){
+							availableSessions.add(possibleSess);
+						}
+					}
+				}
+				
+			}
+			
+			outputResult(student.getSID(), availableSessions, command);
+		
 		}
 	}
 	
-	public void outputResult(String SID, ArrayList<Course> courseList, String command) {
+	public void outputResult(String SID, ArrayList<Session> sessionList, String command) {
 		File result = new File(".\\Result\\" + SID + "_" + command);
 		try {
 			FileOutputStream fos = new FileOutputStream(result);
@@ -70,8 +87,20 @@ public class ListAllAvailable extends Request {
 			strResult.add(command);
 			strResult.add("--------------------------------------------------");
 			
-			for (Course course:courseList) {
-				String tmp = course.getCourseCode() + " " + course.getCourseTitle();
+			String currentCourse = "";
+			for (Session session:sessionList) {
+				String course = "";
+				if (!currentCourse.equalsIgnoreCase(session.getCourseCode())) {
+					currentCourse = session.getCourseCode();
+					course = session.getCourseCode() + " " + Admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator");
+				} else {
+					course = System.getProperty("line.separator");
+				}
+				
+				
+				
+				String tmp =  course + "CRN: " + session.getCRN() + System.getProperty("line.separator") + 
+						"Time: " + session.getDayStr() + " " + session.getStart() + "-" + session.getEnd() + System.getProperty("line.separator");
 				strResult.add(tmp);
 			}
 			
