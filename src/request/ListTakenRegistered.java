@@ -17,7 +17,7 @@ public class ListTakenRegistered extends Request {
 	}
 
 	@Override
-	public void process(Student student, String command){
+	public void process(Student student, String command, String courseInput){
 		if (command.equalsIgnoreCase("ListTaken")) {
 			ArrayList<Course> taken = student.getPrevTaken();
 			outputTaken(student.getSID(), taken, command);

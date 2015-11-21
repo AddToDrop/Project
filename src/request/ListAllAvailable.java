@@ -15,7 +15,7 @@ import utilities.Validator;
 public class ListAllAvailable extends Request {
 
 	@Override
-	public void process(Student student, String command) {
+	public void process(Student student, String command, String courseInput) {
 		if (command.equalsIgnoreCase("ListAllAvailable")) {
 			ArrayList<Course> taken = student.getPrevTaken();
 			ArrayList<Session> registeredSessions = student.getRegistered();
@@ -73,13 +73,13 @@ public class ListAllAvailable extends Request {
 				
 			}
 			
-			outputResult(student.getSID(), availableSessions, command);
+			outputAllAvailable(student.getSID(), availableSessions, command);
 		
 		}
 	}
 	
-	public void outputResult(String SID, ArrayList<Session> sessionList, String command) {
-		File result = new File(".\\Result\\" + SID + "_" + command);
+	public void outputAllAvailable(String SID, ArrayList<Session> sessionList, String command) {
+		File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
 		try {
 			FileOutputStream fos = new FileOutputStream(result);
 			//please close the fos asap
@@ -97,10 +97,7 @@ public class ListAllAvailable extends Request {
 					course = System.getProperty("line.separator");
 				}
 				
-				
-				
-				String tmp =  course + "CRN: " + session.getCRN() + System.getProperty("line.separator") + 
-						"Time: " + session.getDayStr() + " " + session.getStart() + "-" + session.getEnd() + System.getProperty("line.separator");
+				String tmp =  course + "CRN: " + session.getCRN() + " Time: " + session.getDayStr() + " " + session.getStart() + "-" + session.getEnd() + System.getProperty("line.separator");
 				strResult.add(tmp);
 			}
 			
@@ -108,11 +105,11 @@ public class ListAllAvailable extends Request {
 				fos.write(str.getBytes());
 				fos.write("\n".getBytes());
 			}
-			
+			fos.close();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
 			e.printStackTrace();
-		}		
+		}
 	}
 }

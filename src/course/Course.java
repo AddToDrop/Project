@@ -43,7 +43,7 @@ public abstract class Course {
 		return courseCode;
 	}
 	
-	public ArrayList getSessionList() {
+	public ArrayList<Session> getSessionList() {
 		ArrayList<Session> session = new ArrayList<Session>();
 		for(Map.Entry<String, Session> s : sessionList.entrySet()) {
 			session.add(s.getValue());
