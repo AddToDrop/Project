@@ -51,7 +51,7 @@ public class UnitTest5 extends TestCase{
     public void test_getPassword_01() throws Exception {
 		Student s1 = new Student("RonaldRichardson 50000001 password LLB NULL/GE1401_47326,GE1202_44812,LW2600_39585");
 		String result = s1.getPassword();
-		Admin admin = new Admin();
+		Admin admin = Admin.getInstance();
 		String pwd = admin.hashPwd("password");
 		assertEquals(result, pwd);
     }
@@ -60,7 +60,7 @@ public class UnitTest5 extends TestCase{
     public void test_getPassword_02() throws Exception {
 		Student s1 = new Student("EdnaBuchanan 50000005 password BACM NULL/GE1401_47327,SM1701_39195,SM1702_38734,CS1103_47967");
 		String result = s1.getPassword();
-		Admin admin = new Admin();
+		Admin admin = Admin.getInstance();
 		String pwd = admin.hashPwd("password");
 		assertEquals(result, pwd);
     }

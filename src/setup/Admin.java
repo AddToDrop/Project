@@ -26,7 +26,11 @@ public class Admin {
 	 * 1. session list
 	 * 2. course list
 	 */
-
+	
+	// Singleton Class
+	private static Admin instance = new Admin();
+	private Admin(){}
+	
 	private static ArrayList<Session> sessionList = new ArrayList<Session>();
 	private static ArrayList<Course> courseList = new ArrayList<Course>();
 	private static ArrayList<Major> majorList = new ArrayList<Major>();
@@ -372,5 +376,6 @@ public class Admin {
 	}
 	
 	public static ArrayList<Course> getCourseList() {return courseList;}
-	
+
+	public static Admin getInstance() {return instance;}
 }
