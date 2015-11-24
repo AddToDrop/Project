@@ -1,3 +1,4 @@
 50000010
 password
-ListAllAvailable
+ListPossibleSchedule
+SM3601 GE2401
