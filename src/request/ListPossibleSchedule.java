@@ -9,14 +9,15 @@ import course.Course;
 import session.Session;
 import setup.Admin;
 import student.Student;
+import utilities.Validator;
 
 public class ListPossibleSchedule extends Request {
+	private ArrayList<ArrayList<Session>> possibleSchedule = new ArrayList<ArrayList<Session>>();
 	
 	public void process(Student student, String command, String courseInput) {
 		ArrayList<Session> registeredSessions = student.getRegistered();
 		ArrayList<Course> courseInputs = new ArrayList<Course>();
 		ArrayList<ArrayList<Session>> sessionsFromInputedCourses = new ArrayList<ArrayList<Session>>();
-		ArrayList<Session> possibleInputCombination = new ArrayList<Session>();
 		String invalid = "";
 		
 		//validate inputed course codes
@@ -38,12 +39,48 @@ public class ListPossibleSchedule extends Request {
 			for (Course inputedCourse:courseInputs) {
 				sessionsFromInputedCourses.add(inputedCourse.getSessionList());
 			}
+			getSchedule(registeredSessions, sessionsFromInputedCourses);
 			
-			//make the combinations and test time conflicts
-			ArrayList<Session> tmp = new ArrayList<Session>();
-			//permutation here
+			if (possibleSchedule.size()==0){
+				outputNoResult(student.getSID(), command);
+			} else {
+				outputPossibleSchedule(student.getSID(), command);
+			}
 		}
 	}
+	
+	//make the combinations and test time conflicts
+	private void getSchedule(ArrayList<Session> registeredSessions, ArrayList<ArrayList<Session>> sessionsFromInputedCourses) {
+		ArrayList<Session> tmp = registeredSessions;
+		
+		if (sessionsFromInputedCourses.size()==1) {
+			for (Session newInput:sessionsFromInputedCourses.get(0)){
+				for (Session registered:tmp){
+					if (!Validator.timeConflictValidation(newInput, registered)){
+						tmp.add(newInput);
+						possibleSchedule.add(tmp);
+						tmp = registeredSessions;
+					}
+				}
+			}
+		} else {
+			for (Session newInput:sessionsFromInputedCourses.get(0)){
+				for (Session registered:tmp){
+					if (!Validator.timeConflictValidation(newInput, registered)){
+						tmp.add(newInput);
+						sessionsFromInputedCourses.remove(0);
+						getSchedule(tmp, sessionsFromInputedCourses);
+						tmp = registeredSessions;
+					}
+				}
+			}
+		}
+	}
+	
+	
+	
+	
+	
 	
 	private void outputInvalidCode(String SID, String command, String invalidCode) {
 		File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
@@ -65,5 +102,25 @@ public class ListPossibleSchedule extends Request {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}	
+	}
+	
+	private void outputPossibleSchedule(String SID, String command) {
+		File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
+		try {
+			FileOutputStream fos = new FileOutputStream(result);
+			for (int i=0;i<possibleSchedule.size();i++){
+				fos.write(("Possible Schedule " + i).getBytes());
+				fos.write("--------------------------------------------------".getBytes());
+				for (Session session:possibleSchedule.get(i)) {
+					String sessionInfo = "CRN: " + session.getCRN() + " Time: " + session.getDayStr() + " " + session.getStart() + "-" + session.getEnd() + System.getProperty("line.separator");
+					fos.write(sessionInfo.getBytes());
+					fos.write(System.getProperty("line.separator").getBytes());
+				}
+			}
+			fos.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}	
+		
 	}
 }
