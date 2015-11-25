@@ -51,7 +51,8 @@ public class ListPossibleSchedule extends Request {
 	
 	//make the combinations and test time conflicts
 	private void getSchedule(ArrayList<Session> registeredSessions, ArrayList<ArrayList<Session>> sessionsFromInputedCourses) {
-		ArrayList<Session> tmp = registeredSessions;
+		ArrayList<ArrayList<Session>> tmpInputs = (ArrayList<ArrayList<Session>>) sessionsFromInputedCourses.clone();
+		ArrayList<Session> tmp = (ArrayList<Session>) registeredSessions.clone();
 		
 		if (sessionsFromInputedCourses.size()==1) {
 			for (Session newInput:sessionsFromInputedCourses.get(0)){
@@ -59,7 +60,7 @@ public class ListPossibleSchedule extends Request {
 					if (!Validator.timeConflictValidation(newInput, registered)){
 						tmp.add(newInput);
 						possibleSchedule.add(tmp);
-						tmp = registeredSessions;
+						tmp = (ArrayList<Session>) registeredSessions.clone();
 					}
 				}
 			}
@@ -68,9 +69,10 @@ public class ListPossibleSchedule extends Request {
 				for (Session registered:tmp){
 					if (!Validator.timeConflictValidation(newInput, registered)){
 						tmp.add(newInput);
-						sessionsFromInputedCourses.remove(0);
-						getSchedule(tmp, sessionsFromInputedCourses);
-						tmp = registeredSessions;
+						tmpInputs.remove(0);
+						getSchedule(tmp, tmpInputs);
+						tmpInputs = (ArrayList<ArrayList<Session>>) sessionsFromInputedCourses.clone();
+						tmp = (ArrayList<Session>) registeredSessions.clone();
 					}
 				}
 			}
