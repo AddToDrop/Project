@@ -9,8 +9,10 @@ import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 import java.util.ArrayList;
 import java.util.Arrays;
+
 import org.junit.Test;
 
+import setup.Admin;
 import course.Area3;
 import course.Course;
 import course.MajorReq;
