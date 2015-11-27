@@ -16,9 +16,9 @@ import course.Course;
 import course.CourseGenerator;
 import major.Major;
 import major.MajorGenerator;
+import request.RequestProcessor;
 import session.Session;
 import student.Student;
-import utilities.RequestProcessor;
 import utilities.Validator;
 
 public class Admin {
@@ -108,7 +108,6 @@ public class Admin {
 			
 			while (courseIn.hasNext()) {
 				String course = courseIn.nextLine();
-				System.out.println(course);
 				if (!course.isEmpty()) {
 					Course tmp = CourseGenerator.createCourse(course);
 					if (getCourse(tmp.getCourseCode())==null) {
@@ -251,10 +250,8 @@ public class Admin {
 	}
 	
 	public static void getRequest() {
-		System.out.println("getting request");
 		File requestDir = new File (".\\Requests\\");
 		File[] requests = requestDir.listFiles();
-		System.out.println(requests.length + " requests in total");
 		try {
 			for (File f:requests) {
 				Scanner requestIn;
@@ -273,7 +270,6 @@ public class Admin {
 				Student student = Validator.login(SID, pwd);
 				if (student!=null) {
 					RequestProcessor rp = new RequestProcessor();
-					System.out.println("start process the request");
 					rp.processRequest(student, command, courseInput);
 				} else {
 					File result = new File(".\\Result\\" + SID + "_" + command + ".txt");

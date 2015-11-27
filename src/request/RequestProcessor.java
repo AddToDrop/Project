@@ -1,4 +1,4 @@
-package utilities;
+package request;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -7,9 +7,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 import course.Course;
-import request.ListAllAvailable;
-import request.ListPossibleSchedule;
-import request.ListTakenRegistered;
 import student.Student;
 
 public class RequestProcessor {

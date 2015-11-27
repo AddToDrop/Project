@@ -22,7 +22,7 @@ public abstract class Course {
 		courseCode = courseInfo[2];
 		courseTitle = courseInfo[3];
 		
-		ArrayList<Session> tmp = Admin.getSessionForCourse(courseInfo[1]);
+		ArrayList<Session> tmp = Admin.getSessionForCourse(courseInfo[2]);
 		if(tmp!=null){
 			for (Session s:tmp) {
 				sessionList.put(s.getCRN(), s);

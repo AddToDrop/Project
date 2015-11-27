@@ -7,6 +7,9 @@ package testSetup;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
+import java.util.ArrayList;
+import java.util.Arrays;
+
 import org.junit.Test;
 
 import course.Area1;
@@ -125,4 +128,38 @@ public class IntegrationTest1 extends TestCase{
 		assertEquals(finalResult, false);
     }
 	
+	@Test
+    public void test_getColOrMaj_01() throws Exception {
+		String[] courseInfo = {"Area1", "ALL", "GE1104", "Chinese Cultural Canonsand Their Modern Application"};
+		Course c1 = new Area1(courseInfo);
+		ArrayList<String> result = c1.getColOrMaj();
+		ArrayList<String> colOrMaj = new ArrayList<>(Arrays.asList("ALL"));
+		assertEquals(result, colOrMaj);
+    }
+	
+	@Test
+    public void test_getColOrMaj_02() throws Exception {
+		String[] courseInfo = {"MajorElectiveReq", "BACM/BSCCM/BAS", "SM3703", "Media Art and the Environment"};
+		Course c1 = new MajorElectiveReq(courseInfo);
+		ArrayList<String> result = c1.getColOrMaj();
+		ArrayList<String> colOrMaj = new ArrayList<>(Arrays.asList("BACM", "BSCCM", "BAS"));
+		assertEquals(result, colOrMaj);
+    }
+	
+	@Test
+    public void test_getCourseTitle_01() throws Exception {
+		String[] courseInfo = {"Area2", "ALL", "GE1201", "Information Management and Its Social Impact"};
+		Course c1 = new Area2(courseInfo);
+		String result = c1.getCourseTitle();
+		assertEquals(result, "Information Management and Its Social Impact");
+    }
+	
+	@Test
+    public void test_getCourseCode_01() throws Exception {
+		String[] courseInfo = {"Area3", "ALL", "GE1301", "Climate Change and Extreme Weather"};
+		Course c1 = new Area3(courseInfo);
+		String result = c1.getCourseCode();
+		assertEquals(result, "GE1301");
+		
+    }
 }

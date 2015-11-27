@@ -55,7 +55,6 @@ public class UnitTest2 extends TestCase{
 	
 	@Test
     public void test_getCourseCode_01() throws Exception {
-		System.out.println("test");
 		String[] courseInfo = {"Area3", "ALL", "GE1301", "Climate Change and Extreme Weather"};
 		Course c1 = new Area3(courseInfo);
 		String result = c1.getCourseCode();

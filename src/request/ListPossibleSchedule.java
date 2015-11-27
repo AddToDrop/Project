@@ -39,6 +39,7 @@ public class ListPossibleSchedule extends Request {
 			for (Course inputedCourse:courseInputs) {
 				sessionsFromInputedCourses.add(inputedCourse.getSessionList());
 			}
+			
 			getSchedule(registeredSessions, sessionsFromInputedCourses);
 			
 			if (possibleSchedule.size()==0){
@@ -55,18 +56,26 @@ public class ListPossibleSchedule extends Request {
 		ArrayList<Session> tmp = (ArrayList<Session>) registeredSessions.clone();
 		
 		if (sessionsFromInputedCourses.size()==1) {
-			for (Session newInput:sessionsFromInputedCourses.get(0)){
-				for (Session registered:tmp){
-					if (!Validator.timeConflictValidation(newInput, registered)){
-						tmp.add(newInput);
-						possibleSchedule.add(tmp);
-						tmp = (ArrayList<Session>) registeredSessions.clone();
+			if (registeredSessions.size()==0) {
+				for (Session newInput:sessionsFromInputedCourses.get(0)){
+					tmp.add(newInput);
+					possibleSchedule.add(tmp);
+					tmp = (ArrayList<Session>) registeredSessions.clone();
+				}
+			} else {
+				for (Session newInput:sessionsFromInputedCourses.get(0)){
+					for (Session registered:registeredSessions){
+						if (!Validator.timeConflictValidation(newInput, registered)){
+							tmp.add(newInput);
+							possibleSchedule.add(tmp);
+							tmp = (ArrayList<Session>) registeredSessions.clone();
+						}
 					}
 				}
 			}
 		} else {
 			for (Session newInput:sessionsFromInputedCourses.get(0)){
-				for (Session registered:tmp){
+				for (Session registered:registeredSessions){
 					if (!Validator.timeConflictValidation(newInput, registered)){
 						tmp.add(newInput);
 						tmpInputs.remove(0);
@@ -111,10 +120,14 @@ public class ListPossibleSchedule extends Request {
 		try {
 			FileOutputStream fos = new FileOutputStream(result);
 			for (int i=0;i<possibleSchedule.size();i++){
-				fos.write(("Possible Schedule " + i).getBytes());
+				fos.write(("Possible Schedule " + (i+1)).getBytes());
+				fos.write(System.getProperty("line.separator").getBytes());
 				fos.write("--------------------------------------------------".getBytes());
+				fos.write(System.getProperty("line.separator").getBytes());
 				for (Session session:possibleSchedule.get(i)) {
+					String courseInfo = "Course: " + session.getCourseCode() + " " + Admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator");
 					String sessionInfo = "CRN: " + session.getCRN() + " Time: " + session.getDayStr() + " " + session.getStart() + "-" + session.getEnd() + System.getProperty("line.separator");
+					fos.write(courseInfo.getBytes());
 					fos.write(sessionInfo.getBytes());
 					fos.write(System.getProperty("line.separator").getBytes());
 				}

@@ -7,7 +7,9 @@ package testSetup;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
+
 import org.junit.Test;
+
 import junit.framework.TestCase;
 import major.BACM;
 import major.BAS;
@@ -67,5 +69,40 @@ public class IntegrationTest2 extends TestCase{
 			finalResult = true;
 		}
 		assertEquals(finalResult, true);
+    }
+	
+	@Test
+    public void test_getName_01() throws Exception {
+		Major m1 = new BACM("Bachelor of Arts in Creative Media");
+		String result = m1.getName();
+		assertEquals(result, "Bachelor of Arts in Creative Media");
+    }
+	
+	@Test
+    public void test_getName_02() throws Exception {
+		Major m1 = new BAS("Bachelor of Arts and Science in New Media");
+		String result = m1.getName();
+		assertEquals(result, "Bachelor of Arts and Science in New Media");
+    }
+	
+	@Test
+    public void test_getName_03() throws Exception {
+		Major m1 = new BSCCM("Bachelor of Science in Creative Media");
+		String result = m1.getName();
+		assertEquals(result, "Bachelor of Science in Creative Media");
+    }
+	
+	@Test
+    public void test_getName_04() throws Exception {
+		Major m1 = new BEngSE("Bachelor of Engineering in Energy Science and Engineering");
+		String result = m1.getName();
+		assertEquals(result, "Bachelor of Engineering in Energy Science and Engineering");
+    }
+	
+	@Test
+    public void test_getName_05() throws Exception {
+		Major m1 = new LLB("Bachelor of Laws");
+		String result = m1.getName();
+		assertEquals(result, "Bachelor of Laws");
     }
 }

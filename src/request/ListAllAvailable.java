@@ -55,6 +55,8 @@ public class ListAllAvailable extends Request {
 							if (numOfConditions==numOfSatisfied){
 								availableCourses.add(possible);
 							}
+						} else if (preReq.size()==0) {
+							availableCourses.add(possible);
 						}
 					}
 				}
@@ -85,14 +87,16 @@ public class ListAllAvailable extends Request {
 			//please close the fos asap
 			ArrayList<String> strResult = new ArrayList<String>();
 			strResult.add(command);
+			strResult.add(System.getProperty("line.separator"));
 			strResult.add("--------------------------------------------------");
+			strResult.add(System.getProperty("line.separator"));
 			
 			String currentCourse = "";
 			for (Session session:sessionList) {
 				String course = "";
 				if (!currentCourse.equalsIgnoreCase(session.getCourseCode())) {
 					currentCourse = session.getCourseCode();
-					course = session.getCourseCode() + " " + Admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator");
+					course = System.getProperty("line.separator") + System.getProperty("line.separator") + session.getCourseCode() + " " + Admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator");
 				} else {
 					course = System.getProperty("line.separator");
 				}
