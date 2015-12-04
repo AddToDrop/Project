@@ -66,10 +66,15 @@ public class ListAllAvailable extends Request {
 			for (Course availble:availableCourses){
 				ArrayList<Session> possibleList = availble.getSessionList();
 				for (Session possibleSess:possibleList){
+					boolean isOverlap = false;
 					for (Session registeredSess:registeredSessions) {
-						if (!Validator.timeConflictValidation(possibleSess, registeredSess)){
-							availableSessions.add(possibleSess);
+						if (Validator.timeConflictValidation(possibleSess, registeredSess)){
+							isOverlap = true;
 						}
+					}
+					
+					if (!isOverlap){
+						availableSessions.add(possibleSess);
 					}
 				}
 				
