@@ -1,0 +1,14 @@
+ListTaken
+--------------------------------------------------
+SEE3101 Thermosciences for Energy Conversion II
+CRN: 44653
+Time: Tuesday 1200-1450
+
+SEE3103 Energy Efficiency for Buildings
+CRN: 44662
+Time: Wednesday 1200-1450
+
+SEE3201 Atmospheric Science – An Introductory Survey
+CRN: 38335
+Time: Saturday 0900-1150
+

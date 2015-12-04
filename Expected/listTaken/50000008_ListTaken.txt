@@ -1,0 +1,32 @@
+ListTaken
+--------------------------------------------------
+GE1401 University English
+SM1701 Contemporary and New Media Art
+SM1702 Creative Media Studio I
+CS1103 Introduction to Media Computing
+SM2702 Interdisciplinary Practices in Art, Science and the Humanities
+SM2703 Creative Media Colloquium
+CS1303 Introduction to Internet and Programming
+GE2410 English for Engineering
+GE1201 Information Management and Its Social Impact
+GE1101 Chinese Cultural Heritagein Modern Perspective
+SM2704 Creative Media Studio II
+SM2705 Creative Media Studio III : Technology, Coding and Tangible Media
+SM2706 Critical Theory & Socially Engaged Practices
+GE1205 Green Economics
+SM2706 Critical Theory & Socially Engaged Practices
+SM2105 Narrative Strategies & Aesthetics of Time-based Media
+CS2116 Computer Systems
+CS2313 Computer Programming
+GE1305 Everyday Physics: Its Impacton You and
+GE1104 Chinese Cultural Canonsand Their Modern Application
+SM3601 Games Prototyping and Design
+SM2260 Interactive Narrative
+SM3703 Media Art and the Environment
+SM3706 BioArt
+SM1006 Documentary
+SM2007 Culture, Society and New Technologies
+GE1206 Accelerating Professional Growth on the Web
+GE1301 Climate Change and Extreme Weather
+GE1101 Chinese Cultural Heritagein Modern Perspective
+SM2202 Micro-Narratives

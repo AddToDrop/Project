@@ -1,0 +1,10 @@
+ListTaken
+--------------------------------------------------
+CS3402 Database Systems
+CRN: 45550
+Time: Tuesday 1500-1650
+
+SM1006 Documentary
+CRN: 36266
+Time: Thursday 1500-1650
+

@@ -18,9 +18,6 @@ GE1104 Chinese Cultural Canonsand Their Modern Application
 CRN: 40244 Time: Tuesday 1200-1350
 
 
-CRN: 40243 Time: Thursday 1200-1350
-
-
 CRN: 46443 Time: Friday 1400-1550
 
 
@@ -48,18 +45,27 @@ GE1112 Chán Culture and Contemporary Society
 CRN: 40254 Time: Tuesday 1500-1650
 
 
-CRN: 40255 Time: Thursday 1300-1450
+
+GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
 
 
-CRN: 46603 Time: Thursday 1200-1350
+CRN: 44816 Time: Tuesday 1100-1150
 
 
-CRN: 46445 Time: Thursday 1400-1550
+CRN: 44817 Time: Tuesday 1500-1550
 
 
+CRN: 44818 Time: Tuesday 1600-1650
 
-GE1201 Information Management and Its Social Impact
-CRN: 47500 Time: Thursday 1200-1450
+
+CRN: 44814 Time: Tuesday 1800-1850
+
+
+CRN: 44820 Time: Tuesday 900-950
+
+
+CRN: 44819 Time: Tuesday 1000-1050
 
 
 
@@ -68,11 +74,6 @@ CRN: 41140 Time: Tuesday 900-1150
 
 
 CRN: 36375 Time: Friday 900-1150
-
-
-
-GE1205 Green Economics
-CRN: 46293 Time: Thursday 900-1150
 
 
 
@@ -124,59 +125,29 @@ CRN: 48129 Time: Friday 1400-1650
 
 
 
-LW3604 Legal System of the PRC
-CRN: 30989 Time: Tuesday 1700-1850
-
-
-CRN: 30988 Time: Tuesday 1500-1650
+MA2172 Applied Statistics for Sciences and Engineering
+CRN: 24931 Time: Tuesday 1200-1450
 
 
 
-LW3605A Constitutional Law
-CRN: 29254 Time: Tuesday 1000-1150
-
-
-CRN: 29268 Time: Tuesday 1200-1350
+SEE3002 Energy and Energy-related Environmental Economics
+CRN: 46747 Time: Tuesday 900-1150
 
 
 
-LW3606A Criminal Law I
-CRN: 29271 Time: Tuesday 1200-1350
+SEE3201 Atmospheric Science – An Introductory Survey
+CRN: 38335 Time: Saturday 900-1150
+
+
+CRN: 38336 Time: Saturday 1200-1450
 
 
 
-LW4656 Company Law I
-CRN: 26399 Time: Friday 1500-1650
+SEE4202 Atmospheric Chemistry
+CRN: 44665 Time: Friday 1500-1750
 
 
-CRN: 26400 Time: Friday 1700-1850
-
-
-
-LW4614 Dispute Resolution
-CRN: 39350 Time: Friday 900-1050
-
-
-CRN: 39354 Time: Friday 1100-1250
-
-
-
-LW4617 Family Law in Hong Kong
-CRN: 46789 Time: Thursday 1200-1350
-
-
-CRN: 48832 Time: Thursday 1600-1750
-
-
-CRN: 46790 Time: Thursday 1400-1550
-
-
-
-LW4631 Banking Law
-CRN: 28737 Time: Tuesday 900-1050
-
-
-CRN: 46809 Time: Tuesday 1100-1250
+CRN: 44664 Time: Friday 1200-1450
 
 
 
@@ -211,11 +182,6 @@ CRN: 48597 Time: Friday 1500-1550
 
 
 
-PED1311 Yoga Dynamic
-CRN: 46499 Time: Thursday 1400-1550
-
-
-
 PED1402 Golf
 CRN: 16468 Time: Tuesday 900-1050
 
@@ -223,22 +189,13 @@ CRN: 16468 Time: Tuesday 900-1050
 CRN: 16467 Time: Tuesday 900-1050
 
 
-CRN: 16469 Time: Thursday 900-1050
-
-
 
 PED1404 Archery
 CRN: 26633 Time: Friday 1400-1550
 
 
-CRN: 17162 Time: Thursday 1400-1550
-
-
 
 CLA2601 Spanish 1
-CRN: 36598 Time: Thursday 900-1150
-
-
 CRN: 36599 Time: Tuesday 900-1150
 
 

@@ -1,0 +1,27 @@
+ListTaken
+--------------------------------------------------
+GE1401 University English
+SM1701 Contemporary and New Media Art
+SM1702 Creative Media Studio I
+CS1103 Introduction to Media Computing
+GE2411 Legal English
+SM2702 Interdisciplinary Practices in Art, Science and the Humanities
+SM2703 Creative Media Colloquium
+CS1303 Introduction to Internet and Programming
+GE1206 Accelerating Professional Growth on the Web
+SM2704 Creative Media Studio II
+SM2705 Creative Media Studio III : Technology, Coding and Tangible Media
+CS2116 Computer Systems
+CS2313 Computer Programming
+GE1101 Chinese Cultural Heritagein Modern Perspective
+GE1325 From Ideas to Innovative Design
+PED1305 Physical Fitness
+MA1005 Mathematics & Art
+JC2001 Introduction to the Sciences for Artists
+SM2714 Fundamentals of Animation
+SM3601 Games Prototyping and Design
+SM3611 New Media for Installation, Events and Performance
+CS3402 Database Systems
+SM2202 Micro-Narratives
+CS3347 Software Engineering Principles & Practice
+SM2276 Music Studio Production

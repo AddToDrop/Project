@@ -29,34 +29,36 @@ public class ListAllAvailable extends Request {
 				registeredCourses.add(Admin.getCourse(session.getCourseCode()));
 			}
 			
-			//if not taken && if not registered && if satisfied the pre-requisites, then add to availableCourses
+			//if not taken && if not registered && enroll in right programme && if satisfied the pre-requisites, then add to availableCourses
 			for (Course possible : courseList) {
 				if (!taken.contains(possible)) {
 					if (!registeredCourses.contains(possible)) {
-						ArrayList<ArrayList<Course>> preReq = possible.getPreReq();
-						if (preReq != null && !preReq.isEmpty()) {
-							int numOfConditions = preReq.size();
-							int numOfSatisfied = 0;
-							for (ArrayList<Course> condition:preReq) {
-								if (condition.size() == 1) {
-									if (taken.contains(condition.get(0))){
-										numOfSatisfied++;
-									}
-								} else if (condition.size() > 1) {
-									for (Course subCondition:condition){
-										if (taken.contains(subCondition)){
+						if (possible.getColOrMaj().contains("ALL") || possible.getColOrMaj().contains(student.getProgramme())) {
+							ArrayList<ArrayList<Course>> preReq = possible.getPreReq();
+							if (preReq != null && !preReq.isEmpty()) {
+								int numOfConditions = preReq.size();
+								int numOfSatisfied = 0;
+								for (ArrayList<Course> condition:preReq) {
+									if (condition.size() == 1) {
+										if (taken.contains(condition.get(0))){
 											numOfSatisfied++;
-											break;
+										}
+									} else if (condition.size() > 1) {
+										for (Course subCondition:condition){
+											if (taken.contains(subCondition)){
+												numOfSatisfied++;
+												break;
+											}
 										}
 									}
 								}
-							}
-							
-							if (numOfConditions==numOfSatisfied){
+								
+								if (numOfConditions==numOfSatisfied){
+									availableCourses.add(possible);
+								}
+							} else if (preReq.size()==0) {
 								availableCourses.add(possible);
 							}
-						} else if (preReq.size()==0) {
-							availableCourses.add(possible);
 						}
 					}
 				}

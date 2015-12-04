@@ -1,5 +1,5 @@
 /**
- * Unit Testing 1: RequestProcessor
+ * Integration Testing 1: RequestProcessor
  * Date: 
  */
 
@@ -17,7 +17,7 @@ import session.Session;
 import setup.Admin;
 import student.Student;
 
-public class UnitTest1 {
+public class IntegrationTest1 {
 	@Test
     public void test_processRequest_01() throws Exception {
 		Admin.startSetup();
