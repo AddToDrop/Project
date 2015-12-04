@@ -16,17 +16,18 @@ public class ListAllAvailable extends Request {
 
 	@Override
 	public void process(Student student, String command, String courseInput) {
+		Admin admin = Admin.getInstance();
 		if (command.equalsIgnoreCase("ListAllAvailable")) {
 			ArrayList<Course> taken = student.getPrevTaken();
 			ArrayList<Session> registeredSessions = student.getRegistered();
 			ArrayList<Course> registeredCourses = new ArrayList<Course>();
-			ArrayList<Course> courseList = Admin.getCourseList();
+			ArrayList<Course> courseList = admin.getCourseList();
 			ArrayList<Course> availableCourses = new ArrayList<Course>();
 			ArrayList<Session> availableSessions = new ArrayList<Session>();
 			
 			//convert registered sessions to courses
 			for (Session session:registeredSessions){
-				registeredCourses.add(Admin.getCourse(session.getCourseCode()));
+				registeredCourses.add(admin.getCourse(session.getCourseCode()));
 			}
 			
 			//if not taken && if not registered && if satisfied the pre-requisites, then add to availableCourses
@@ -86,6 +87,7 @@ public class ListAllAvailable extends Request {
 	}
 	
 	public void outputAllAvailable(String SID, ArrayList<Session> sessionList, String command) {
+		Admin admin = Admin.getInstance();
 		File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
 		try {
 			FileOutputStream fos = new FileOutputStream(result);
@@ -101,7 +103,7 @@ public class ListAllAvailable extends Request {
 				String course = "";
 				if (!currentCourse.equalsIgnoreCase(session.getCourseCode())) {
 					currentCourse = session.getCourseCode();
-					course = System.getProperty("line.separator") + System.getProperty("line.separator") + session.getCourseCode() + " " + Admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator");
+					course = System.getProperty("line.separator") + System.getProperty("line.separator") + session.getCourseCode() + " " + admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator");
 				} else {
 					course = System.getProperty("line.separator");
 				}
