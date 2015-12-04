@@ -1,0 +1,14 @@
+ListTaken
+--------------------------------------------------
+SM2704 Creative Media Studio II
+CRN: 42322
+Time: Tuesday 1200-1450
+
+SM2705 Creative Media Studio III : Technology, Coding and Tangible Media
+CRN: 42327
+Time: Monday 1500-1750
+
+SM2706 Critical Theory & Socially Engaged Practices
+CRN: 42346
+Time: Friday 0900-1150
+
