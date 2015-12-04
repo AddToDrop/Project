@@ -79,7 +79,7 @@ public class Admin {
 			Scanner sessionIn = new Scanner(sessionInfo);
 			
 			while (sessionIn.hasNext()) {
-				String session = sessionIn.nextLine();
+				String session = sessionIn.nextLine(); 
 				if (!session.isEmpty()) {
 					Session tmp = new Session(session);
 					if (getSession(tmp.getCRN())==null) {

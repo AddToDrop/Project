@@ -1,4 +1,0 @@
-50000001
-password
-ListPossibleSchedule
-GE1401

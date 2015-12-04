@@ -7,25 +7,7 @@ ListAllAvailable
 
 
 GE1101 Chinese Cultural Heritagein Modern Perspective
-CRN: 46620 Time: Wednesday 1000-1150
-
-
-CRN: 46620 Time: Wednesday 1000-1150
-
-
 CRN: 46621 Time: Friday 1200-1350
-
-
-CRN: 46621 Time: Friday 1200-1350
-
-
-CRN: 46621 Time: Friday 1200-1350
-
-
-CRN: 46629 Time: Tuesday 1400-1550
-
-
-CRN: 46629 Time: Tuesday 1400-1550
 
 
 CRN: 46629 Time: Tuesday 1400-1550
@@ -36,72 +18,18 @@ GE1104 Chinese Cultural Canonsand Their Modern Application
 CRN: 40244 Time: Tuesday 1200-1350
 
 
-CRN: 40244 Time: Tuesday 1200-1350
-
-
-CRN: 40244 Time: Tuesday 1200-1350
-
-
 CRN: 40243 Time: Thursday 1200-1350
-
-
-CRN: 40243 Time: Thursday 1200-1350
-
-
-CRN: 40243 Time: Thursday 1200-1350
-
-
-CRN: 46602 Time: Wednesday 1200-1350
-
-
-CRN: 46602 Time: Wednesday 1200-1350
-
-
-CRN: 46443 Time: Friday 1400-1550
-
-
-CRN: 46443 Time: Friday 1400-1550
 
 
 CRN: 46443 Time: Friday 1400-1550
 
 
 CRN: 40220 Time: Tuesday 1700-1850
-
-
-CRN: 40220 Time: Tuesday 1700-1850
-
-
-CRN: 40220 Time: Tuesday 1700-1850
-
-
-CRN: 46444 Time: Monday 1400-1550
 
 
 
 GE1107 The City in Chinese History and
-CRN: 47036 Time: Wednesday 1000-1150
-
-
-CRN: 47036 Time: Wednesday 1000-1150
-
-
-CRN: 47037 Time: Monday 1000-1150
-
-
 CRN: 47038 Time: Friday 1100-1250
-
-
-CRN: 47038 Time: Friday 1100-1250
-
-
-CRN: 47038 Time: Friday 1100-1250
-
-
-CRN: 47039 Time: Tuesday 1200-1350
-
-
-CRN: 47039 Time: Tuesday 1200-1350
 
 
 CRN: 47039 Time: Tuesday 1200-1350
@@ -112,30 +40,6 @@ GE1110 Exploring Contemporary Art
 CRN: 41456 Time: Friday 1500-1750
 
 
-CRN: 41456 Time: Friday 1500-1750
-
-
-CRN: 41456 Time: Friday 1500-1750
-
-
-CRN: 44566 Time: Wednesday 900-1150
-
-
-CRN: 44566 Time: Wednesday 900-1150
-
-
-CRN: 41168 Time: Wednesday 1500-1750
-
-
-CRN: 41168 Time: Wednesday 1500-1750
-
-
-CRN: 38779 Time: Tuesday 1200-1450
-
-
-CRN: 38779 Time: Tuesday 1200-1450
-
-
 CRN: 38779 Time: Tuesday 1200-1450
 
 
@@ -144,40 +48,10 @@ GE1112 Chán Culture and Contemporary Society
 CRN: 40254 Time: Tuesday 1500-1650
 
 
-CRN: 40254 Time: Tuesday 1500-1650
-
-
-CRN: 40254 Time: Tuesday 1500-1650
-
-
-CRN: 40255 Time: Thursday 1300-1450
-
-
-CRN: 40255 Time: Thursday 1300-1450
-
-
 CRN: 40255 Time: Thursday 1300-1450
 
 
 CRN: 46603 Time: Thursday 1200-1350
-
-
-CRN: 46603 Time: Thursday 1200-1350
-
-
-CRN: 46603 Time: Thursday 1200-1350
-
-
-CRN: 44536 Time: Wednesday 1200-1350
-
-
-CRN: 44536 Time: Wednesday 1200-1350
-
-
-CRN: 46445 Time: Thursday 1400-1550
-
-
-CRN: 46445 Time: Thursday 1400-1550
 
 
 CRN: 46445 Time: Thursday 1400-1550
@@ -188,33 +62,9 @@ GE1201 Information Management and Its Social Impact
 CRN: 47500 Time: Thursday 1200-1450
 
 
-CRN: 47500 Time: Thursday 1200-1450
-
-
-CRN: 47500 Time: Thursday 1200-1450
-
-
 
 GE1204 Living with the Unexpected and Unknown Modern Society
 CRN: 41140 Time: Tuesday 900-1150
-
-
-CRN: 41140 Time: Tuesday 900-1150
-
-
-CRN: 41140 Time: Tuesday 900-1150
-
-
-CRN: 36376 Time: Wednesday 1600-1850
-
-
-CRN: 36376 Time: Wednesday 1600-1850
-
-
-CRN: 36375 Time: Friday 900-1150
-
-
-CRN: 36375 Time: Friday 900-1150
 
 
 CRN: 36375 Time: Friday 900-1150
@@ -225,30 +75,9 @@ GE1205 Green Economics
 CRN: 46293 Time: Thursday 900-1150
 
 
-CRN: 46293 Time: Thursday 900-1150
-
-
-CRN: 46293 Time: Thursday 900-1150
-
-
-CRN: 36194 Time: Monday 1200-1450
-
-
 
 GE1206 Accelerating Professional Growth on the Web
-CRN: 44103 Time: Monday 900-1150
-
-
 CRN: 36806 Time: Tuesday 1200-1450
-
-
-CRN: 36806 Time: Tuesday 1200-1450
-
-
-CRN: 36806 Time: Tuesday 1200-1450
-
-
-CRN: 36807 Time: Monday 1600-1850
 
 
 
@@ -256,27 +85,9 @@ GE1301 Climate Change and Extreme Weather
 CRN: 38337 Time: Tuesday 1500-1750
 
 
-CRN: 38337 Time: Tuesday 1500-1750
-
-
-CRN: 38337 Time: Tuesday 1500-1750
-
-
 
 GE1305 Everyday Physics: Its Impacton You and
 CRN: 43911 Time: Saturday 1200-1250
-
-
-CRN: 43911 Time: Saturday 1200-1250
-
-
-CRN: 43911 Time: Saturday 1200-1250
-
-
-CRN: 43743 Time: Saturday 1000-1150
-
-
-CRN: 43743 Time: Saturday 1000-1150
 
 
 CRN: 43743 Time: Saturday 1000-1150
@@ -287,25 +98,7 @@ GE1310 The Biochemistry of Attraction
 CRN: 42517 Time: Tuesday 1100-1150
 
 
-CRN: 42517 Time: Tuesday 1100-1150
-
-
-CRN: 42517 Time: Tuesday 1100-1150
-
-
 CRN: 42516 Time: Tuesday 900-1050
-
-
-CRN: 42516 Time: Tuesday 900-1050
-
-
-CRN: 42516 Time: Tuesday 900-1050
-
-
-CRN: 42518 Time: Tuesday 1200-1250
-
-
-CRN: 42518 Time: Tuesday 1200-1250
 
 
 CRN: 42518 Time: Tuesday 1200-1250
@@ -316,45 +109,15 @@ GE1322 Brain MachineInterface: Technology, Culture and Society
 CRN: 48236 Time: Tuesday 1500-1750
 
 
-CRN: 48236 Time: Tuesday 1500-1750
-
-
-CRN: 48236 Time: Tuesday 1500-1750
-
-
 
 GE1325 From Ideas to Innovative Design
 CRN: 48144 Time: Friday 1400-1650
 
 
-CRN: 48144 Time: Friday 1400-1650
-
-
-CRN: 48144 Time: Friday 1400-1650
-
-
-CRN: 48130 Time: Friday 1400-1650
-
-
-CRN: 48130 Time: Friday 1400-1650
-
-
 CRN: 48130 Time: Friday 1400-1650
 
 
 CRN: 48131 Time: Friday 1400-1650
-
-
-CRN: 48131 Time: Friday 1400-1650
-
-
-CRN: 48131 Time: Friday 1400-1650
-
-
-CRN: 48129 Time: Friday 1400-1650
-
-
-CRN: 48129 Time: Friday 1400-1650
 
 
 CRN: 48129 Time: Friday 1400-1650
@@ -362,25 +125,7 @@ CRN: 48129 Time: Friday 1400-1650
 
 
 GE2401 English for Science
-CRN: 39269 Time: Wednesday 900-1150
-
-
-CRN: 39269 Time: Wednesday 900-1150
-
-
 CRN: 41304 Time: Friday 900-1150
-
-
-CRN: 41304 Time: Friday 900-1150
-
-
-CRN: 41304 Time: Friday 900-1150
-
-
-CRN: 39270 Time: Friday 1500-1750
-
-
-CRN: 39270 Time: Friday 1500-1750
 
 
 CRN: 39270 Time: Friday 1500-1750
@@ -388,25 +133,7 @@ CRN: 39270 Time: Friday 1500-1750
 
 
 GE2410 English for Engineering
-CRN: 39509 Time: Wednesday 1500-1750
-
-
-CRN: 39509 Time: Wednesday 1500-1750
-
-
 CRN: 39511 Time: Thursday 1500-1750
-
-
-CRN: 39511 Time: Thursday 1500-1750
-
-
-CRN: 39511 Time: Thursday 1500-1750
-
-
-CRN: 39508 Time: Tuesday 1600-1850
-
-
-CRN: 39508 Time: Tuesday 1600-1850
 
 
 CRN: 39508 Time: Tuesday 1600-1850
@@ -414,48 +141,12 @@ CRN: 39508 Time: Tuesday 1600-1850
 
 
 GE2411 Legal English
-CRN: 39278 Time: Wednesday 1500-1750
-
-
-CRN: 39278 Time: Wednesday 1500-1750
-
-
 CRN: 39179 Time: Friday 1500-1750
-
-
-CRN: 39179 Time: Friday 1500-1750
-
-
-CRN: 39179 Time: Friday 1500-1750
-
-
-CRN: 39273 Time: Wednesday 900-1150
-
-
-CRN: 39273 Time: Wednesday 900-1150
 
 
 
 SM1701 Contemporary and New Media Art
 CRN: 39196 Time: Tuesday 1200-1450
-
-
-CRN: 39196 Time: Tuesday 1200-1450
-
-
-CRN: 39196 Time: Tuesday 1200-1450
-
-
-CRN: 39194 Time: Wednesday 1500-1750
-
-
-CRN: 39194 Time: Wednesday 1500-1750
-
-
-CRN: 39195 Time: Thursday 1500-1750
-
-
-CRN: 39195 Time: Thursday 1500-1750
 
 
 CRN: 39195 Time: Thursday 1500-1750
@@ -466,50 +157,14 @@ SM1702 Creative Media Studio I
 CRN: 38734 Time: Thursday 900-1150
 
 
-CRN: 38734 Time: Thursday 900-1150
-
-
-CRN: 38734 Time: Thursday 900-1150
-
-
-CRN: 38692 Time: Wednesday 900-1150
-
-
-CRN: 38692 Time: Wednesday 900-1150
-
-
-CRN: 38544 Time: Wednesday 1400-1650
-
-
-CRN: 38544 Time: Wednesday 1400-1650
-
-
 
 SM2703 Creative Media Colloquium
 CRN: 42239 Time: Tuesday 1600-1850
 
 
-CRN: 42239 Time: Tuesday 1600-1850
-
-
-CRN: 42239 Time: Tuesday 1600-1850
-
-
 
 CS1103 Introduction to Media Computing
-CRN: 47964 Time: Monday 1600-1850
-
-
 CRN: 47965 Time: Friday 1600-1850
-
-
-CRN: 47965 Time: Friday 1600-1850
-
-
-CRN: 47965 Time: Friday 1600-1850
-
-
-CRN: 47967 Time: Monday 1200-1450
 
 
 
@@ -517,25 +172,7 @@ MA1200 Calculus and Basic Linear Algebra I
 CRN: 37066 Time: Thursday 900-1050
 
 
-CRN: 37066 Time: Thursday 900-1050
-
-
-CRN: 37066 Time: Thursday 900-1050
-
-
 CRN: 38821 Time: Friday 1200-1350
-
-
-CRN: 38821 Time: Friday 1200-1350
-
-
-CRN: 38821 Time: Friday 1200-1350
-
-
-CRN: 38820 Time: Thursday 900-1050
-
-
-CRN: 38820 Time: Thursday 900-1050
 
 
 CRN: 38820 Time: Thursday 900-1050
@@ -546,25 +183,7 @@ MA1300 Enhanced Calculus and Linear Algebra I
 CRN: 39840 Time: Thursday 900-1050
 
 
-CRN: 39840 Time: Thursday 900-1050
-
-
-CRN: 39840 Time: Thursday 900-1050
-
-
 CRN: 39841 Time: Tuesday 1100-1250
-
-
-CRN: 39841 Time: Tuesday 1100-1250
-
-
-CRN: 39841 Time: Tuesday 1100-1250
-
-
-CRN: 41341 Time: Thursday 1200-1350
-
-
-CRN: 41341 Time: Thursday 1200-1350
 
 
 CRN: 41341 Time: Thursday 1200-1350
@@ -575,42 +194,9 @@ AP1201 General Physics I
 CRN: 40207 Time: Saturday 900-1150
 
 
-CRN: 40207 Time: Saturday 900-1150
-
-
-CRN: 40207 Time: Saturday 900-1150
-
-
-CRN: 47888 Time: Wednesday 900-1150
-
-
-CRN: 47888 Time: Wednesday 900-1150
-
-
-CRN: 47886 Time: Wednesday 900-1150
-
-
-CRN: 47886 Time: Wednesday 900-1150
-
-
 
 BCH1100 Chemistry
-CRN: 39921 Time: Monday 1500-1650
-
-
 CRN: 39933 Time: Tuesday 900-1050
-
-
-CRN: 39933 Time: Tuesday 900-1050
-
-
-CRN: 39933 Time: Tuesday 900-1050
-
-
-CRN: 39920 Time: Thursday 1700-1850
-
-
-CRN: 39920 Time: Thursday 1700-1850
 
 
 CRN: 39920 Time: Thursday 1700-1850
@@ -621,25 +207,7 @@ BCH1200 Discovery in Biology
 CRN: 42958 Time: Friday 900-1050
 
 
-CRN: 42958 Time: Friday 900-1050
-
-
-CRN: 42958 Time: Friday 900-1050
-
-
 CRN: 40118 Time: Friday 900-1050
-
-
-CRN: 40118 Time: Friday 900-1050
-
-
-CRN: 40118 Time: Friday 900-1050
-
-
-CRN: 42295 Time: Thursday 1000-1150
-
-
-CRN: 42295 Time: Thursday 1000-1150
 
 
 CRN: 42295 Time: Thursday 1000-1150
@@ -650,18 +218,6 @@ LW2601 Hong Kong Legal System
 CRN: 29138 Time: Tuesday 1500-1650
 
 
-CRN: 29138 Time: Tuesday 1500-1650
-
-
-CRN: 29138 Time: Tuesday 1500-1650
-
-
-CRN: 20190 Time: Tuesday 1700-1850
-
-
-CRN: 20190 Time: Tuesday 1700-1850
-
-
 CRN: 20190 Time: Tuesday 1700-1850
 
 
@@ -670,25 +226,7 @@ LW2603A Law of Tort I
 CRN: 29264 Time: Friday 1000-1150
 
 
-CRN: 29264 Time: Friday 1000-1150
-
-
-CRN: 29264 Time: Friday 1000-1150
-
-
 CRN: 29253 Time: Friday 1000-1150
-
-
-CRN: 29253 Time: Friday 1000-1150
-
-
-CRN: 29253 Time: Friday 1000-1150
-
-
-CRN: 30835 Time: Friday 1200-1350
-
-
-CRN: 30835 Time: Friday 1200-1350
 
 
 CRN: 30835 Time: Friday 1200-1350
@@ -699,44 +237,11 @@ SM2706 Critical Theory & Socially Engaged Practices
 CRN: 42346 Time: Friday 900-1150
 
 
-CRN: 42346 Time: Friday 900-1150
-
-
-CRN: 42346 Time: Friday 900-1150
-
-
 CRN: 42348 Time: Friday 1200-1450
-
-
-CRN: 42348 Time: Friday 1200-1450
-
-
-CRN: 42348 Time: Friday 1200-1450
-
-
-CRN: 42347 Time: Monday 900-1150
 
 
 
 CS2116 Computer Systems
-CRN: 45517 Time: Wednesday 1100-1250
-
-
-CRN: 45517 Time: Wednesday 1100-1250
-
-
-CRN: 45518 Time: Wednesday 1300-1450
-
-
-CRN: 45518 Time: Wednesday 1300-1450
-
-
-CRN: 45516 Time: Friday 1300-1450
-
-
-CRN: 45516 Time: Friday 1300-1450
-
-
 CRN: 45516 Time: Friday 1300-1450
 
 
@@ -745,54 +250,14 @@ SM3601 Games Prototyping and Design
 CRN: 31625 Time: Thursday 1200-1450
 
 
-CRN: 31625 Time: Thursday 1200-1450
-
-
-CRN: 31625 Time: Thursday 1200-1450
-
-
-CRN: 31624 Time: Tuesday 900-1150
-
-
-CRN: 31624 Time: Tuesday 900-1150
-
-
 CRN: 31624 Time: Tuesday 900-1150
 
 
 CRN: 31623 Time: Friday 900-1150
-
-
-CRN: 31623 Time: Friday 900-1150
-
-
-CRN: 31623 Time: Friday 900-1150
-
-
-
-JC2001 Introduction to the Sciences for Artists
-CRN: 43745 Time: Monday 900-1150
-
-
-
-SEE2001 Electromagnetic Principles for Energy Engineers
-CRN: 41832 Time: Wednesday 900-1150
-
-
-CRN: 41832 Time: Wednesday 900-1150
 
 
 
 MA2172 Applied Statistics for Sciences and Engineering
-CRN: 23536 Time: Monday 1600-1850
-
-
-CRN: 24931 Time: Tuesday 1200-1450
-
-
-CRN: 24931 Time: Tuesday 1200-1450
-
-
 CRN: 24931 Time: Tuesday 1200-1450
 
 
@@ -801,67 +266,17 @@ SEE3002 Energy and Energy-related Environmental Economics
 CRN: 46747 Time: Tuesday 900-1150
 
 
-CRN: 46747 Time: Tuesday 900-1150
-
-
-CRN: 46747 Time: Tuesday 900-1150
-
-
-
-SEEM4024 Project Management
-CRN: 47426 Time: Monday 1700-1850
-
-
-CRN: 47428 Time: Monday 1300-1450
-
-
-CRN: 47427 Time: Monday 1200-1350
-
-
 
 LW3604 Legal System of the PRC
 CRN: 30989 Time: Tuesday 1700-1850
 
 
-CRN: 30989 Time: Tuesday 1700-1850
-
-
-CRN: 30989 Time: Tuesday 1700-1850
-
-
 CRN: 30988 Time: Tuesday 1500-1650
-
-
-CRN: 30988 Time: Tuesday 1500-1650
-
-
-CRN: 30988 Time: Tuesday 1500-1650
-
-
-CRN: 30984 Time: Monday 1700-1850
 
 
 
 LW3605A Constitutional Law
-CRN: 29269 Time: Wednesday 1000-1150
-
-
-CRN: 29269 Time: Wednesday 1000-1150
-
-
 CRN: 29254 Time: Tuesday 1000-1150
-
-
-CRN: 29254 Time: Tuesday 1000-1150
-
-
-CRN: 29254 Time: Tuesday 1000-1150
-
-
-CRN: 29268 Time: Tuesday 1200-1350
-
-
-CRN: 29268 Time: Tuesday 1200-1350
 
 
 CRN: 29268 Time: Tuesday 1200-1350
@@ -872,50 +287,12 @@ LW3606A Criminal Law I
 CRN: 29271 Time: Tuesday 1200-1350
 
 
-CRN: 29271 Time: Tuesday 1200-1350
-
-
-CRN: 29271 Time: Tuesday 1200-1350
-
-
-CRN: 29255 Time: Monday 1200-1350
-
-
 
 LW4656 Company Law I
 CRN: 26399 Time: Friday 1500-1650
 
 
-CRN: 26399 Time: Friday 1500-1650
-
-
-CRN: 26399 Time: Friday 1500-1650
-
-
 CRN: 26400 Time: Friday 1700-1850
-
-
-CRN: 26400 Time: Friday 1700-1850
-
-
-CRN: 26400 Time: Friday 1700-1850
-
-
-CRN: 26401 Time: Monday 900-1050
-
-
-
-SM2260 Interactive Narrative
-CRN: 46842 Time: Wednesday 1200-1450
-
-
-CRN: 46842 Time: Wednesday 1200-1450
-
-
-CRN: 48643 Time: Wednesday 1200-1450
-
-
-CRN: 48643 Time: Wednesday 1200-1450
 
 
 
@@ -923,40 +300,7 @@ SM1006 Documentary
 CRN: 44693 Time: Thursday 1700-1850
 
 
-CRN: 44693 Time: Thursday 1700-1850
-
-
-CRN: 44693 Time: Thursday 1700-1850
-
-
 CRN: 36266 Time: Thursday 1500-1650
-
-
-CRN: 36266 Time: Thursday 1500-1650
-
-
-CRN: 36266 Time: Thursday 1500-1650
-
-
-
-SM2228 Understanding Animation
-CRN: 44929 Time: Monday 1500-1750
-
-
-
-SM2231 3D Animation I - Basic
-CRN: 17898 Time: Wednesday 1200-1450
-
-
-CRN: 17898 Time: Wednesday 1200-1450
-
-
-
-SM2202 Micro-Narratives
-CRN: 46836 Time: Wednesday 1500-1750
-
-
-CRN: 46836 Time: Wednesday 1500-1750
 
 
 
@@ -964,25 +308,7 @@ SM1013 Introduction to Photography
 CRN: 42168 Time: Friday 1500-1650
 
 
-CRN: 42168 Time: Friday 1500-1650
-
-
-CRN: 42168 Time: Friday 1500-1650
-
-
 CRN: 44741 Time: Thursday 1500-1650
-
-
-CRN: 44741 Time: Thursday 1500-1650
-
-
-CRN: 44741 Time: Thursday 1500-1650
-
-
-CRN: 43776 Time: Friday 1300-1450
-
-
-CRN: 43776 Time: Friday 1300-1450
 
 
 CRN: 43776 Time: Friday 1300-1450
@@ -990,38 +316,12 @@ CRN: 43776 Time: Friday 1300-1450
 
 
 SM2290 Cinema and Politics
-CRN: 46568 Time: Monday 1200-1450
-
-
 CRN: 46569 Time: Tuesday 1200-1450
-
-
-CRN: 46569 Time: Tuesday 1200-1450
-
-
-CRN: 46569 Time: Tuesday 1200-1450
-
-
-
-SEE4116 Energy and Carbon Auditing
-CRN: 46755 Time: Monday 900-1150
 
 
 
 SEE3201 Atmospheric Science – An Introductory Survey
 CRN: 38335 Time: Saturday 900-1150
-
-
-CRN: 38335 Time: Saturday 900-1150
-
-
-CRN: 38335 Time: Saturday 900-1150
-
-
-CRN: 38336 Time: Saturday 1200-1450
-
-
-CRN: 38336 Time: Saturday 1200-1450
 
 
 CRN: 38336 Time: Saturday 1200-1450
@@ -1032,50 +332,12 @@ SEE4202 Atmospheric Chemistry
 CRN: 44665 Time: Friday 1500-1750
 
 
-CRN: 44665 Time: Friday 1500-1750
-
-
-CRN: 44665 Time: Friday 1500-1750
-
-
 CRN: 44664 Time: Friday 1200-1450
-
-
-CRN: 44664 Time: Friday 1200-1450
-
-
-CRN: 44664 Time: Friday 1200-1450
-
-
-
-LW4630 Equity and Trusts
-CRN: 45327 Time: Monday 1200-1350
-
-
-CRN: 45328 Time: Monday 1400-1550
-
-
-CRN: 45315 Time: Wednesday 1200-1350
-
-
-CRN: 45315 Time: Wednesday 1200-1350
 
 
 
 LW4614 Dispute Resolution
 CRN: 39350 Time: Friday 900-1050
-
-
-CRN: 39350 Time: Friday 900-1050
-
-
-CRN: 39350 Time: Friday 900-1050
-
-
-CRN: 39354 Time: Friday 1100-1250
-
-
-CRN: 39354 Time: Friday 1100-1250
 
 
 CRN: 39354 Time: Friday 1100-1250
@@ -1086,25 +348,7 @@ LW4617 Family Law in Hong Kong
 CRN: 46789 Time: Thursday 1200-1350
 
 
-CRN: 46789 Time: Thursday 1200-1350
-
-
-CRN: 46789 Time: Thursday 1200-1350
-
-
 CRN: 48832 Time: Thursday 1600-1750
-
-
-CRN: 48832 Time: Thursday 1600-1750
-
-
-CRN: 48832 Time: Thursday 1600-1750
-
-
-CRN: 46790 Time: Thursday 1400-1550
-
-
-CRN: 46790 Time: Thursday 1400-1550
 
 
 CRN: 46790 Time: Thursday 1400-1550
@@ -1115,40 +359,11 @@ LW4631 Banking Law
 CRN: 28737 Time: Tuesday 900-1050
 
 
-CRN: 28737 Time: Tuesday 900-1050
-
-
-CRN: 28737 Time: Tuesday 900-1050
-
-
-CRN: 28739 Time: Monday 1500-1650
-
-
 CRN: 46809 Time: Tuesday 1100-1250
-
-
-CRN: 46809 Time: Tuesday 1100-1250
-
-
-CRN: 46809 Time: Tuesday 1100-1250
-
-
-
-PED1101 Canoeing
-CRN: 37780 Time: Wednesday 900-1050
-
-
-CRN: 37780 Time: Wednesday 900-1050
 
 
 
 PED1102 Snorkel Diving
-CRN: 16425 Time: Tuesday 1000-1150
-
-
-CRN: 16425 Time: Tuesday 1000-1150
-
-
 CRN: 16425 Time: Tuesday 1000-1150
 
 
@@ -1157,25 +372,7 @@ PED1103 Swimming
 CRN: 16427 Time: Tuesday 1100-1250
 
 
-CRN: 16427 Time: Tuesday 1100-1250
-
-
-CRN: 16427 Time: Tuesday 1100-1250
-
-
 CRN: 16428 Time: Tuesday 1500-1650
-
-
-CRN: 16428 Time: Tuesday 1500-1650
-
-
-CRN: 16428 Time: Tuesday 1500-1650
-
-
-CRN: 16429 Time: Wednesday 1400-1550
-
-
-CRN: 16429 Time: Wednesday 1400-1550
 
 
 
@@ -1183,126 +380,22 @@ PED1203 Social Dance
 CRN: 37781 Time: Tuesday 1500-1550
 
 
-CRN: 37781 Time: Tuesday 1500-1550
-
-
-CRN: 37781 Time: Tuesday 1500-1550
-
-
-
-PED1305 Physical Fitness
-CRN: 35610 Time: Monday 1100-1150
-
-
-CRN: 35614 Time: Wednesday 1500-1550
-
-
-CRN: 35614 Time: Wednesday 1500-1550
-
-
-CRN: 35613 Time: Wednesday 1400-1450
-
-
-CRN: 35613 Time: Wednesday 1400-1450
-
-
-CRN: 35612 Time: Monday 1600-1650
-
-
-CRN: 35609 Time: Monday 1000-1050
-
-
-
-PED1306 Step Aerobic
-CRN: 35465 Time: Monday 1100-1150
-
-
 
 PED1308 Fitball
 CRN: 48594 Time: Friday 1400-1450
 
 
-CRN: 48594 Time: Friday 1400-1450
-
-
-CRN: 48594 Time: Friday 1400-1450
-
-
-CRN: 17160 Time: Monday 1000-1050
-
-
-CRN: 48593 Time: Wednesday 1500-1550
-
-
-CRN: 48593 Time: Wednesday 1500-1550
-
-
-CRN: 28995 Time: Wednesday 1000-1050
-
-
-CRN: 28995 Time: Wednesday 1000-1050
-
-
 
 PED1309 Pilates Mat
-CRN: 48596 Time: Wednesday 1600-1650
-
-
-CRN: 48596 Time: Wednesday 1600-1650
-
-
-CRN: 32983 Time: Tuesday 1400-1450
-
-
-CRN: 32983 Time: Tuesday 1400-1450
-
-
 CRN: 32983 Time: Tuesday 1400-1450
 
 
 CRN: 48597 Time: Friday 1500-1550
-
-
-CRN: 48597 Time: Friday 1500-1550
-
-
-CRN: 48597 Time: Friday 1500-1550
-
-
-
-PED1310 Yoga Refreshing
-CRN: 32985 Time: Wednesday 900-950
-
-
-CRN: 32985 Time: Wednesday 900-950
-
-
-CRN: 20830 Time: Monday 900-950
 
 
 
 PED1311 Yoga Dynamic
-CRN: 44378 Time: Monday 1400-1550
-
-
-CRN: 44377 Time: Monday 1400-1550
-
-
 CRN: 46499 Time: Thursday 1400-1550
-
-
-CRN: 46499 Time: Thursday 1400-1550
-
-
-CRN: 46499 Time: Thursday 1400-1550
-
-
-
-PED1401 Fencing
-CRN: 37800 Time: Monday 1000-1050
-
-
-CRN: 16465 Time: Monday 900-950
 
 
 
@@ -1310,25 +403,7 @@ PED1402 Golf
 CRN: 16468 Time: Tuesday 900-1050
 
 
-CRN: 16468 Time: Tuesday 900-1050
-
-
-CRN: 16468 Time: Tuesday 900-1050
-
-
 CRN: 16467 Time: Tuesday 900-1050
-
-
-CRN: 16467 Time: Tuesday 900-1050
-
-
-CRN: 16467 Time: Tuesday 900-1050
-
-
-CRN: 16469 Time: Thursday 900-1050
-
-
-CRN: 16469 Time: Thursday 900-1050
 
 
 CRN: 16469 Time: Thursday 900-1050
@@ -1336,51 +411,15 @@ CRN: 16469 Time: Thursday 900-1050
 
 
 PED1404 Archery
-CRN: 26634 Time: Monday 1400-1550
-
-
-CRN: 26633 Time: Friday 1400-1550
-
-
-CRN: 26633 Time: Friday 1400-1550
-
-
 CRN: 26633 Time: Friday 1400-1550
 
 
 CRN: 17162 Time: Thursday 1400-1550
-
-
-CRN: 17162 Time: Thursday 1400-1550
-
-
-CRN: 17162 Time: Thursday 1400-1550
-
-
-CRN: 17161 Time: Monday 1400-1550
 
 
 
 CLA2601 Spanish 1
 CRN: 36598 Time: Thursday 900-1150
-
-
-CRN: 36598 Time: Thursday 900-1150
-
-
-CRN: 36598 Time: Thursday 900-1150
-
-
-CRN: 36597 Time: Wednesday 900-1150
-
-
-CRN: 36597 Time: Wednesday 900-1150
-
-
-CRN: 36599 Time: Tuesday 900-1150
-
-
-CRN: 36599 Time: Tuesday 900-1150
 
 
 CRN: 36599 Time: Tuesday 900-1150
@@ -1391,50 +430,10 @@ CLA2602 Spanish 2
 CRN: 36606 Time: Friday 900-1150
 
 
-CRN: 36606 Time: Friday 900-1150
-
-
-CRN: 36606 Time: Friday 900-1150
-
-
-
-CLA3603 Spanish 3
-CRN: 36646 Time: Monday 900-1150
-
-
 
 AIS2973 Korean I
 CRN: 37841 Time: Tuesday 1000-1250
 
 
-CRN: 37841 Time: Tuesday 1000-1250
-
-
-CRN: 37841 Time: Tuesday 1000-1250
-
-
-CRN: 41366 Time: Wednesday 1000-1250
-
-
-CRN: 41366 Time: Wednesday 1000-1250
-
-
 CRN: 22143 Time: Tuesday 1100-1350
-
-
-CRN: 22143 Time: Tuesday 1100-1350
-
-
-CRN: 22143 Time: Tuesday 1100-1350
-
-
-
-AIS2974 Korean II
-CRN: 44596 Time: Monday 1300-1550
-
-
-CRN: 48157 Time: Wednesday 1200-1450
-
-
-CRN: 48157 Time: Wednesday 1200-1450
 
