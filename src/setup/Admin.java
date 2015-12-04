@@ -40,12 +40,12 @@ public class Admin {
 	
 
 	public static boolean startSetup() {
-		if (makeSession()) {
-			if (makeCourse()){
-				if (linkPrereq()) {
-					if (makeMajor()) {
-						if (makeCollege()) {
-							if (makeStudent()) {
+		if (makeSession(".\\SetupInfo\\SessionInfo.txt")) {
+			if (makeCourse(".\\SetupInfo\\CourseInfo.txt")){
+				if (linkPrereq(".\\SetupInfo\\Pre-requisitesInfo.txt")) {
+					if (makeMajor(".\\SetupInfo\\Pre-requisitesInfo.txt")) {
+						if (makeCollege(".\\SetupInfo\\CollegeInfo.txt")) {
+							if (makeStudent(".\\SetupInfo\\StudentInfo.txt")) {
 								return true;
 							} else {
 								System.out.println("makeStudent error");
@@ -73,8 +73,8 @@ public class Admin {
 		}
 	}
 	
-	private static boolean makeSession(){
-		File sessionInfo = new File(".\\SetupInfo\\SessionInfo.txt");
+	private static boolean makeSession(String path){
+		File sessionInfo = new File(path);
 		try {
 			Scanner sessionIn = new Scanner(sessionInfo);
 			
@@ -101,8 +101,8 @@ public class Admin {
 		}
 	}
 	
-	private static boolean makeCourse(){
-		File CourseInfo = new File(".\\SetupInfo\\CourseInfo.txt");
+	private static boolean makeCourse(String path){
+		File CourseInfo = new File(path);
 		try {
 			Scanner courseIn = new Scanner(CourseInfo);
 			
@@ -127,8 +127,8 @@ public class Admin {
 			return false;
 		}
 	}
-	private static boolean linkPrereq() {
-		File preReqInfo = new File(".\\SetupInfo\\Pre-requisitesInfo.txt");
+	private static boolean linkPrereq(String path) {
+		File preReqInfo = new File(path);
 		try {
 			Scanner preReqIn = new Scanner(preReqInfo);
 			
@@ -161,8 +161,8 @@ public class Admin {
 			return false;
 		}
 	}
-	private static boolean makeStudent(){
-		File StudentInfo = new File(".\\SetupInfo\\StudentInfo.txt");
+	private static boolean makeStudent(String path){
+		File StudentInfo = new File(path);
 		try {
 			Scanner studentIn = new Scanner(StudentInfo);
 			
@@ -188,8 +188,8 @@ public class Admin {
 		}
 	}
 	
-	private static boolean makeMajor(){
-		File majorInfo = new File(".\\SetupInfo\\MajorInfo.txt");
+	private static boolean makeMajor(String path){
+		File majorInfo = new File(path);
 		try {
 			Scanner majorIn = new Scanner(majorInfo);
 			
@@ -220,8 +220,8 @@ public class Admin {
 	}
 	
 	
-	private static boolean makeCollege(){
-		File collegeInfo = new File(".\\SetupInfo\\CollegeInfo.txt");
+	private static boolean makeCollege(String path){
+		File collegeInfo = new File(path);
 		try {
 			Scanner collegeIn = new Scanner(collegeInfo);
 			

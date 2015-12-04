@@ -21,18 +21,22 @@ public class RequestProcessor {
 			ListPossibleSchedule request = new ListPossibleSchedule();
 			request.process(student, command, courseInput);
 		} else {
-			File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");
-			try {
-				FileOutputStream fos = new FileOutputStream(result);
-				
-				fos.write("Invalid command".getBytes());
-				fos.close();
-			} catch (FileNotFoundException e) {
-				e.printStackTrace();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
+			outputInvalidCommand(student.getSID(), command);
+		}
+	
+	}
+	
+	public void outputInvalidCommand(String SID, String command) {
+		File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
+		try {
+			FileOutputStream fos = new FileOutputStream(result);
+			
+			fos.write("Invalid command".getBytes());
+			fos.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 	}
-		
 }
