@@ -20,7 +20,6 @@ import student.Student;
 public class UnitTest1 {
 	@Test
     public void test_processRequest_01() throws Exception {
-		Admin.startSetup();
 		Student student = new Student("RonaldRichardson 50000001 password LLB NULL/GE1401_47326,GE1202_44812,LW2600_39585");
 		RequestProcessor rp = new RequestProcessor();
 		String command = "InvalidCommand";

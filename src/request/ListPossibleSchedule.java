@@ -15,6 +15,7 @@ public class ListPossibleSchedule extends Request {
 	private ArrayList<ArrayList<Session>> possibleSchedule = new ArrayList<ArrayList<Session>>();
 	
 	public void process(Student student, String command, String courseInput) {
+		Admin admin = Admin.getInstance();
 		ArrayList<Session> registeredSessions = student.getRegistered();
 		ArrayList<Course> courseInputs = new ArrayList<Course>();
 		ArrayList<ArrayList<Session>> sessionsFromInputedCourses = new ArrayList<ArrayList<Session>>();
@@ -23,7 +24,7 @@ public class ListPossibleSchedule extends Request {
 		//validate inputed course codes
 		String[] courseCodes = courseInput.split(" ");
 		for (String courseCode:courseCodes) {
-			Course course = Admin.getCourse(courseCode);
+			Course course = admin.getCourse(courseCode);
 			if (course!=null) {
 				courseInputs.add(course);
 			} else {
@@ -116,6 +117,7 @@ public class ListPossibleSchedule extends Request {
 	}
 	
 	private void outputPossibleSchedule(String SID, String command) {
+		Admin admin = Admin.getInstance();
 		File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
 		try {
 			FileOutputStream fos = new FileOutputStream(result);
@@ -125,7 +127,7 @@ public class ListPossibleSchedule extends Request {
 				fos.write("--------------------------------------------------".getBytes());
 				fos.write(System.getProperty("line.separator").getBytes());
 				for (Session session:possibleSchedule.get(i)) {
-					String courseInfo = "Course: " + session.getCourseCode() + " " + Admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator");
+					String courseInfo = "Course: " + session.getCourseCode() + " " + admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator");
 					String sessionInfo = "CRN: " + session.getCRN() + " Time: " + session.getDayStr() + " " + session.getStart() + "-" + session.getEnd() + System.getProperty("line.separator");
 					fos.write(courseInfo.getBytes());
 					fos.write(sessionInfo.getBytes());

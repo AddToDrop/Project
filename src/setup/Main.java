@@ -9,8 +9,9 @@ import course.Course;
 
 public class Main {
 	public static void main(String[] args) {
-		Admin.startSetup();
-		Admin.getRequest();
+		Admin admin = Admin.getInstance();
+		admin.startSetup();
+		admin.getRequest();
 	}
 
 }

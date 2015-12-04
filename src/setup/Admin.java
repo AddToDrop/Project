@@ -29,17 +29,20 @@ public class Admin {
 	
 	// Singleton Class
 	private static Admin instance = new Admin();
-	private Admin(){}
-	
-	private static ArrayList<Session> sessionList = new ArrayList<Session>();
-	private static ArrayList<Course> courseList = new ArrayList<Course>();
-	private static ArrayList<Major> majorList = new ArrayList<Major>();
-	private static ArrayList<College> collegeList = new ArrayList<College>();
-	private static ArrayList<Student> studentList = new ArrayList<Student>();
+	private ArrayList<Session> sessionList = new ArrayList<Session>();
+	private ArrayList<Course> courseList = new ArrayList<Course>();
+	private ArrayList<Major> majorList = new ArrayList<Major>();
+	private ArrayList<College> collegeList = new ArrayList<College>();
+	private ArrayList<Student> studentList = new ArrayList<Student>();
 
-	
+	private Admin(){
+	}
 
-	public static boolean startSetup() {
+	public static Admin getInstance() {
+		return instance;
+	}
+	 
+	public boolean startSetup() {
 		if (makeSession(".\\SetupInfo\\SessionInfo.txt")) {
 			if (makeCourse(".\\SetupInfo\\CourseInfo.txt")){
 				if (linkPrereq(".\\SetupInfo\\Pre-requisitesInfo.txt")) {
@@ -73,7 +76,7 @@ public class Admin {
 		}
 	}
 	
-	private static boolean makeSession(String path){
+	public boolean makeSession(String path){
 		File sessionInfo = new File(path);
 		try {
 			Scanner sessionIn = new Scanner(sessionInfo);
@@ -101,7 +104,7 @@ public class Admin {
 		}
 	}
 	
-	private static boolean makeCourse(String path){
+	public boolean makeCourse(String path){
 		File CourseInfo = new File(path);
 		try {
 			Scanner courseIn = new Scanner(CourseInfo);
@@ -127,7 +130,7 @@ public class Admin {
 			return false;
 		}
 	}
-	private static boolean linkPrereq(String path) {
+	public boolean linkPrereq(String path) {
 		File preReqInfo = new File(path);
 		try {
 			Scanner preReqIn = new Scanner(preReqInfo);
@@ -136,16 +139,16 @@ public class Admin {
 				String preReqLine = preReqIn.nextLine();
 				if (!preReqLine.isEmpty()) {
 					String[] preReqStr = preReqLine.split(" ");
-					Course target = Admin.getCourse(preReqStr[0]);
+					Course target = this.getCourse(preReqStr[0]);
 					
 					for (String courseName1:preReqStr[1].split("&")){
 						ArrayList<Course> tmp = new ArrayList<Course>();
 						if (!courseName1.contains("/")){
-							tmp.add(Admin.getCourse(courseName1));
+							tmp.add(this.getCourse(courseName1));
 							target.addPreReq(tmp);
 						} else {
 							for (String courseName2:courseName1.split("/")){
-								tmp.add(Admin.getCourse(courseName2));
+								tmp.add(this.getCourse(courseName2));
 							}
 							target.addPreReq(tmp);
 						}
@@ -161,7 +164,7 @@ public class Admin {
 			return false;
 		}
 	}
-	private static boolean makeStudent(String path){
+	public boolean makeStudent(String path){
 		File StudentInfo = new File(path);
 		try {
 			Scanner studentIn = new Scanner(StudentInfo);
@@ -188,7 +191,7 @@ public class Admin {
 		}
 	}
 	
-	private static boolean makeMajor(String path){
+	public boolean makeMajor(String path){
 		File majorInfo = new File(path);
 		try {
 			Scanner majorIn = new Scanner(majorInfo);
@@ -198,7 +201,7 @@ public class Admin {
 				if (!major.isEmpty()) {
 					Major tmp = MajorGenerator.createMajor(major);
 					if (tmp!=null) {
-						if (Admin.getMajor(tmp.getName())==null) {
+						if (this.getMajor(tmp.getName())==null) {
 							majorList.add(tmp);
 							//System.out.println("Major " + tmp.getName() + " created");
 						} else {
@@ -220,7 +223,7 @@ public class Admin {
 	}
 	
 	
-	private static boolean makeCollege(String path){
+	public boolean makeCollege(String path){
 		File collegeInfo = new File(path);
 		try {
 			Scanner collegeIn = new Scanner(collegeInfo);
@@ -230,7 +233,7 @@ public class Admin {
 				if (!college.isEmpty()) {
 					College tmp = CollegeGenerator.createCollege(college);
 					if (tmp!=null) {
-						if (Admin.getCollege(tmp.getName())==null){
+						if (this.getCollege(tmp.getName())==null){
 							collegeList.add(tmp);
 							//System.out.println("College " + tmp.getName() + " created");
 						} else {
@@ -249,7 +252,7 @@ public class Admin {
 		}
 	}
 	
-	public static void getRequest() {
+	public void getRequest() {
 		File requestDir = new File (".\\Requests\\");
 		File[] requests = requestDir.listFiles();
 		try {
@@ -290,7 +293,7 @@ public class Admin {
 		}
 	}
 	
-	public static ArrayList<Session> getSessionForCourse(String courseCode){
+	public ArrayList<Session> getSessionForCourse(String courseCode){
 		ArrayList<Session> tmpList = new ArrayList<Session>();
 		for(Session s: sessionList){
 			if(s.getCourseCode().equals(courseCode))
@@ -299,11 +302,11 @@ public class Admin {
 		return tmpList;
 	}
 	
-	public static ArrayList<Major> getMajorList() {
+	public ArrayList<Major> getMajorList() {
 		return majorList;
 	}
 	
-	public static Session getSession(String CRN){
+	public Session getSession(String CRN){
 		for(Session s: sessionList){
 			if(s.getCRN().equals(CRN))
 				return s;
@@ -311,7 +314,7 @@ public class Admin {
 		return null;
 	}
 
-	public static Course getCourse(String courseCode) {
+	public Course getCourse(String courseCode) {
 		for (Course c:courseList) {
 			if (c.getCourseCode().equals(courseCode)) {
 				//System.out.println("system: " + c.getCourseCode() + " input: " + courseCode);
@@ -321,7 +324,7 @@ public class Admin {
 		return null;
 	}
 	
-	public static Major getMajor(String majorName) {
+	public Major getMajor(String majorName) {
 		for (Major m:majorList) {
 			if (m.getName().equals(majorName)) {
 				return m;
@@ -330,7 +333,7 @@ public class Admin {
 		return null;
 	}
 	
-	public static College getCollege(String collegeName) {
+	public College getCollege(String collegeName) {
 		for (College col:collegeList) {
 			if (col.getName().equals(collegeName)) {
 				return col;
@@ -339,7 +342,7 @@ public class Admin {
 		return null;
 	}
 	
-	public static Student getStudent(String SID) {
+	public Student getStudent(String SID) {
 		for (Student s:studentList) {
 			if (s.getSID().equals(SID))
 				return s;
@@ -370,8 +373,8 @@ public class Admin {
         
 		return hashedPwd;
 	}
-	
-	public static ArrayList<Course> getCourseList() {return courseList;}
 
-	public static Admin getInstance() {return instance;}
+	public ArrayList<Course> getCourseList() {return courseList;}
+
+	
 }

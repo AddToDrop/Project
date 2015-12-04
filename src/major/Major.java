@@ -13,8 +13,8 @@ public abstract class Major {
 	
 	public Major (String name) {
 		majorName = name;
-		
-		ArrayList<Course> courses = Admin.getCourseList();
+		Admin admin = Admin.getInstance();
+		ArrayList<Course> courses = admin.getCourseList();
 		ArrayList<Course> courseForMajor = new ArrayList<Course>();
 		
 		for (Course course:courses){

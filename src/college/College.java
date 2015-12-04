@@ -16,7 +16,8 @@ public abstract class College {
 		String[] collegeInfo = college.split(" ");
 		collegeName = collegeInfo[0];
 		
-		ArrayList<Major> majors = Admin.getMajorList();
+		Admin admin = Admin.getInstance();
+		ArrayList<Major> majors = admin.getMajorList();
 		for (String majorName:collegeInfo[1].split("/")) {
 			for (Major major:majors) {
 				if (major.getName().equals(majorName)){
@@ -24,10 +25,8 @@ public abstract class College {
 				}
 			}
 		}
-		
-		
-		
-		ArrayList<Course> courses = Admin.getCourseList();
+				
+		ArrayList<Course> courses = admin.getCourseList();
 		for (Course course:courses){
 			if (course.getColOrMaj().contains(collegeName)) {
 				collegeReqList.add(course);

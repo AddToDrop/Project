@@ -11,7 +11,8 @@ public class Validator {
 	
 	//Password Validation
 	public static Student login(String SID, String pwd){
-		Student tmp = Admin.getStudent(SID);
+		Admin admin = Admin.getInstance();
+		Student tmp = admin.getStudent(SID);
 		
 		if (tmp==null){
 			return null;

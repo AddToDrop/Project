@@ -54,6 +54,7 @@ public class ListTakenRegistered extends Request {
 	}
 	
 	public void outputRegistered(String SID, ArrayList<Session> sessionList, String command) {
+		Admin admin = Admin.getInstance();
 		File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
 		try {
 			FileOutputStream fos = new FileOutputStream(result);
@@ -63,7 +64,7 @@ public class ListTakenRegistered extends Request {
 			strResult.add("--------------------------------------------------");
 			
 			for (Session session:sessionList) {
-				String tmp = session.getCourseCode() + " " + Admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator") + 
+				String tmp = session.getCourseCode() + " " + admin.getCourse(session.getCourseCode()).getCourseTitle() + System.getProperty("line.separator") + 
 						"CRN: " + session.getCRN() + System.getProperty("line.separator") + 
 						"Time: " + session.getDayStr() + " " + session.getStart() + "-" + session.getEnd() + System.getProperty("line.separator");
 				strResult.add(tmp);

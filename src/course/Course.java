@@ -22,7 +22,8 @@ public abstract class Course {
 		courseCode = courseInfo[2];
 		courseTitle = courseInfo[3];
 		
-		ArrayList<Session> tmp = Admin.getSessionForCourse(courseInfo[2]);
+		Admin admin = Admin.getInstance();
+		ArrayList<Session> tmp = admin.getSessionForCourse(courseInfo[2]);
 		if(tmp!=null){
 			for (Session s:tmp) {
 				sessionList.put(s.getCRN(), s);
@@ -31,6 +32,7 @@ public abstract class Course {
 			System.out.println("There is no session for " + courseInfo[1] + " " + courseInfo[2]);
 		}
 	}
+	
 	public ArrayList<String> getColOrMaj(){
 		return collegeOrMajor;
 	}
@@ -78,7 +80,8 @@ public abstract class Course {
 	
 	//static version
 	public static int getSessionInfo(String CRN, String info){
-		Session session = Admin.getSession(CRN);
+		Admin admin = Admin.getInstance();
+		Session session = admin.getSession(CRN);
 		int time = 0;
 		if(info.equals("day"))
 			time = session.getDay();
