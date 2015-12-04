@@ -9,6 +9,7 @@ import static org.junit.Assert.assertEquals;
 
 import java.io.File;
 
+import org.junit.Before;
 import org.junit.Test;
 
 import junitx.framework.FileAssert;
@@ -18,9 +19,20 @@ import setup.Admin;
 import student.Student;
 
 public class IntegrationTest1 {
+	
+	public static boolean init = false; 
+	
+	@Before
+	public void setup(){
+		if (!init) {
+			Admin admin = Admin.getInstance();
+			admin.startSetup();
+			init = true;
+		}
+	}
+	
 	@Test
     public void test_processRequest_01() throws Exception {
-		Admin.startSetup();
 		Student student = new Student("RonaldRichardson 50000001 password LLB NULL/GE1401_47326,GE1202_44812,LW2600_39585");
 		RequestProcessor rp = new RequestProcessor();
 		String command = "InvalidCommand";
@@ -59,7 +71,7 @@ public class IntegrationTest1 {
     public void test_processRequest_04() throws Exception {
 		Student student = new Student("LyleHoward 50000006 password BACM GE1401,SM1701,SM1702,CS1103,SM2702,SM2703,CS1303,GE2410,GE1201,GE1101/SM2704_42322,SM2705_42327,SM2706_42346");
 		RequestProcessor rp = new RequestProcessor();
-		String command = "ListAvailable";
+		String command = "ListAllAvailable";
 		rp.processRequest(student, command, "");
 		
 		File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");

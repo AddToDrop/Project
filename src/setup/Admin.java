@@ -28,7 +28,7 @@ public class Admin {
 	 */
 	
 	// Singleton Class
-	private static Admin instance = new Admin();
+	private static final Admin instance = new Admin();
 	private ArrayList<Session> sessionList = new ArrayList<Session>();
 	private ArrayList<Course> courseList = new ArrayList<Course>();
 	private ArrayList<Major> majorList = new ArrayList<Major>();
