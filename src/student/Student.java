@@ -7,7 +7,6 @@ import setup.Admin;
 import course.Course;
 
 public class Student {
-	//JEONG Alex
 	String name;
 	String SID;
 	String password;
@@ -15,7 +14,6 @@ public class Student {
 	ArrayList<Course> prevTaken = new ArrayList<Course>();
 	ArrayList<Session> registered = new ArrayList<Session>();
 	
-	//Joshua: Alex please provide a function allowing me to get password with sid(add a parameter in getPassword(Strong sid) OR Where you store the student list
 	
 	public Student(String student){
 		String[] studentInfo = student.split(" ");

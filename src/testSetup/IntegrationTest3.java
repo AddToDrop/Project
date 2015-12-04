@@ -7,7 +7,6 @@ package testSetup;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
-
 import org.junit.Test;
 
 import college.College;
