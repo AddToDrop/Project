@@ -1,0 +1,8 @@
+Area1#ALL#GE1101#Chinese Cultural Heritagein Modern Perspective
+Area2#ALL#GE1206#Accelerating Professional Growth on the Web
+Area3#ALL#GE1301#Climate Change and Extreme Weather
+CollegeReq#LAW#LW3666#Legal Research and Writing I
+MajorReq#BACM/BSCCM/BAS#SM2704#Creative Media Studio II
+MajorElectiveReq#LLB#LW4637#Criminology
+PECourse#ALL#PED1101#Canoeing
+FreeElective#ALL#CLA2601#Spanish 1
