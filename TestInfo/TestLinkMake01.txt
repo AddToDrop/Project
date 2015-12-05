@@ -1,0 +1,9 @@
+CollegeReq#SEE#MA1200#Calculus and Basic Linear Algebra I
+CollegeReq#SEE#MA1201#Calculus and Basic Linear Algebra II
+CollegeReq#SCM#SM1702#Creative Media Studio I
+MajorReq#BACM/BSCCM/BAS#SM2705#Creative Media Studio III : Technology, Coding and Tangible Media
+CollegeReq#SCM#CS1303#Introduction to Internet and Programming
+MajorReq#BACM/BAS#CS2313#Computer Programming
+MajorElectiveReq#BEngSE#SEE4213#An Introduction to Environmental Data Analysis
+MajorReq#BEngSE#MA2172#Applied Statistics for Sciences and Engineering
+MajorReq#BEngSE#MA2181#Mathematical Methods for Engineering

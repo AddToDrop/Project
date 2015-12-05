@@ -1,7 +1,6 @@
 Area1#ALL#GE1104#Chinese Cultural Canonsand Their Modern Application
 Area2#ALL#GE1205#Green Economics
 Area3#ALL#GE1325#From Ideas to Innovative Design
-CollegeReq#SEE#MA1201#Calculus and Basic Linear Algebra II
 MajorReq#BEngSE#SEE4112#Energy Systems: Modelling and Analysis
 MajorElectiveReq#LLB#LW4616#Law of Evidence
 PECourse#ALL#PED1308#Fitball
