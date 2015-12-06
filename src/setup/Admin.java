@@ -376,5 +376,8 @@ public class Admin {
 
 	public ArrayList<Course> getCourseList() {return courseList;}
 
+	public ArrayList<College> getCollegeList() {return collegeList;}
+	
+	public ArrayList<Student> getStudentList() {return studentList;}
 	
 }
