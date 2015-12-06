@@ -466,16 +466,9 @@ public class IntegrationTest4 extends TestCase{
 		assertEquals(finalResult, false);
     }
 	
+	
 
-	/*
-	 * makeSession
-	 * makeCourse
-	 * linkPrereq
-	 * makeStudent
-	 * makeMajor
-	 * makeCollege
-	 * startSetup
-	 */
+	
 	
 	private static ArrayList<String> infoScanner(String separator, int index, String path) {
 		File info = new File(path);

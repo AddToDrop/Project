@@ -46,7 +46,7 @@ public class Admin {
 		if (makeSession(".\\SetupInfo\\SessionInfo.txt")) {
 			if (makeCourse(".\\SetupInfo\\CourseInfo.txt")){
 				if (linkPrereq(".\\SetupInfo\\Pre-requisitesInfo.txt")) {
-					if (makeMajor(".\\SetupInfo\\Pre-requisitesInfo.txt")) {
+					if (makeMajor(".\\SetupInfo\\MajorInfo.txt")) {
 						if (makeCollege(".\\SetupInfo\\CollegeInfo.txt")) {
 							if (makeStudent(".\\SetupInfo\\StudentInfo.txt")) {
 								return true;
