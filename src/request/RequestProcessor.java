@@ -23,7 +23,6 @@ public class RequestProcessor {
 		} else {
 			outputInvalidCommand(student.getSID(), command);
 		}
-	
 	}
 	
 	public void outputInvalidCommand(String SID, String command) {

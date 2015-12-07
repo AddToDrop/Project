@@ -1,0 +1,4352 @@
+Possible Schedule 1
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 2
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 3
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 4
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 5
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 6
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 7
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 8
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 9
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 10
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 11
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 12
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 13
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 14
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 15
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 16
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 17
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 18
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 19
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 20
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 21
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 22
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 23
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 24
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 25
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 26
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 27
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 28
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 29
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 30
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 31
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 32
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 33
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 34
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 35
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 36
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 37
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 38
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 39
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 40
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 41
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 42
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 43
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 44
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 45
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 46
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 47
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 48
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 49
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 50
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 51
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 52
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 53
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 54
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 55
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 56
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 57
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 58
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 59
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 60
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 61
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 62
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 63
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 64
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 65
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 66
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 67
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 68
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 69
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 70
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 71
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 72
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 73
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 74
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 75
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 76
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 77
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 78
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 79
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 80
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 81
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 82
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 83
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 84
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 85
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 86
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 87
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 88
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 89
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 90
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 91
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 92
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 93
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 94
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 95
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 96
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 97
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 98
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 99
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 100
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 101
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 102
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 103
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 104
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 105
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 106
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 107
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 108
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 109
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 110
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 111
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 112
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 113
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 114
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 115
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 116
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 117
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 118
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 119
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 120
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 121
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 122
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 123
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 124
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 125
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 126
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 127
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 128
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 129
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 130
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 131
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 132
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 133
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 134
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 135
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 136
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 137
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 138
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 139
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 140
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 141
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 142
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 143
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 144
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 145
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 146
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 147
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 148
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 149
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 150
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 151
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 152
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 153
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 154
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 155
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 156
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 157
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 158
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 159
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 160
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 41304 Time: Friday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 161
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 162
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 163
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 164
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 165
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 166
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 167
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 168
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 169
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 170
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 171
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 172
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 173
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 174
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 175
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 176
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 177
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 178
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 179
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 180
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 181
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 182
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 183
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 184
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 185
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 186
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 187
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 188
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 189
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 190
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 191
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 192
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 193
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 194
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 195
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 196
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 197
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 198
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 199
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 200
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 201
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 202
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 203
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 204
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 205
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 206
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 207
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 208
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 209
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 210
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 211
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 212
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 213
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 214
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 215
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 216
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 217
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 218
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 219
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 220
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 221
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 222
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 223
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 224
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 225
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 226
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 227
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 228
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44815 Time: Tuesday 1000-1050
+
+Possible Schedule 229
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 230
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 231
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 232
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44816 Time: Tuesday 1100-1150
+
+Possible Schedule 233
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 234
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 235
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 236
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44817 Time: Tuesday 1500-1550
+
+Possible Schedule 237
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 238
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 239
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 240
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44818 Time: Tuesday 1600-1650
+
+Possible Schedule 241
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 242
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Possible Schedule 243
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 244
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44813 Time: Monday 1600-1650
+
+Possible Schedule 245
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 246
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 247
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 248
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44814 Time: Tuesday 1800-1850
+
+Possible Schedule 249
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 250
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 251
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 252
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44820 Time: Tuesday 900-950
+
+Possible Schedule 253
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 254
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 255
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+
+Possible Schedule 256
+--------------------------------------------------
+Course: GE1401 University English
+CRN: 47326 Time: Wednesday 900-1150
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44812 Time: Monday 1100-1150
+
+Course: LW2600 Legal Research and Writing
+CRN: 39585 Time: Monday 1700-1850
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1202 Managing Your Personal Finance
+CRN: 44819 Time: Tuesday 1000-1050
+

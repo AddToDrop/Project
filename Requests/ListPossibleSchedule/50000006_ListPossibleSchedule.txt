@@ -1,4 +1,4 @@
-50000001
+50000006
 password
 ListPossibleSchedule
-GE2401 GE1110
+GE2401 GE1202

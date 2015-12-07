@@ -25,29 +25,36 @@ public class Validator {
 		}
 	}
 	
-	//Time Conflict Validation
 	//true: overlap
 	//false: no overlap
-	public static boolean timeConflictValidation(Session session1, Session session2){
+	public static boolean timeConflict(Session session1, Session session2){
 		int s1=session1.getDay();
 		int s1s=session1.getStart();
 		int s1e=session1.getEnd();
 		int s2=session2.getDay();
-		int s2s=session1.getStart();
-		int s2e=session1.getEnd();
+		int s2s=session2.getStart();
+		int s2e=session2.getEnd();
 		
-		if (s1==s2){
-			if(timeConflictCal(s1s,s2s)==timeConflictCal(s1e,s2e)==timeConflictCal(s1s,s2e)==timeConflictCal(s1e,s2s)){
-				return false;
-			}else return true;
-		}else return false;
-	}
-	private static boolean timeConflictCal(int time1, int time2){
-		if(time1-time2>0){
-			return true;
+		if (s1==s2) {
+			if (s1s==s2s) {
+				//same start time
+				return true;
+			} else if (s1e==s2e) {
+				//same end time
+				return true;
+			} else if (s2s<s1s && s1s<s2e) {
+				//if session1 start is in between session2 start and end
+				return true;
+			} else if (s1s<s2s && s2s<s1e) {
+				//if session2 start is in between session1 start and end
+				return true;
+			}
+			return false;
+		} else {
+			return false;
 		}
-		else return false;
 	}
+	
 	//Check studied Validation
 	public static boolean studiedValidation(Student student, Course courseInput){
 		ArrayList<Course> prevTaken = student.getPrevTaken();				

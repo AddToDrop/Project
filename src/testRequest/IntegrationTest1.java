@@ -39,7 +39,7 @@ public class IntegrationTest1 {
 		rp.processRequest(student, command, "");
 		
 		File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");
-		File expected = new File(".\\Expected\\" + student.getSID() + "_" + command + ".txt");
+		File expected = new File(".\\TestRequest\\IntegrationTest1\\" + student.getSID() + "_" + command + ".txt");
 		FileAssert.assertEquals(expected, result);
     }
 	
@@ -51,7 +51,7 @@ public class IntegrationTest1 {
 		rp.processRequest(student, command, "");
 		
 		File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");
-		File expected = new File(".\\Expected\\" + student.getSID() + "_" + command + ".txt");
+		File expected = new File(".\\TestRequest\\IntegrationTest1\\" + student.getSID() + "_" + command + ".txt");
 		FileAssert.assertEquals(expected, result);
     }
 	
@@ -63,7 +63,7 @@ public class IntegrationTest1 {
 		rp.processRequest(student, command, "");
 		
 		File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");
-		File expected = new File(".\\Expected\\" + student.getSID() + "_" + command + ".txt");
+		File expected = new File(".\\TestRequest\\IntegrationTest1\\" + student.getSID() + "_" + command + ".txt");
 		FileAssert.assertEquals(expected, result);
     }
 	
@@ -75,7 +75,7 @@ public class IntegrationTest1 {
 		rp.processRequest(student, command, "");
 		
 		File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");
-		File expected = new File(".\\Expected\\" + student.getSID() + "_" + command + ".txt");
+		File expected = new File(".\\TestRequest\\IntegrationTest1\\" + student.getSID() + "_" + command + ".txt");
 		FileAssert.assertEquals(expected, result);
     }
 	
@@ -84,10 +84,10 @@ public class IntegrationTest1 {
 		Student student = new Student("LyleHoward 50000006 password BACM GE1401,SM1701,SM1702,CS1103,SM2702,SM2703,CS1303,GE2410,GE1201,GE1101/SM2704_42322,SM2705_42327,SM2706_42346");
 		RequestProcessor rp = new RequestProcessor();
 		String command = "ListPossibleSchedule";
-		rp.processRequest(student, command, "");
+		rp.processRequest(student, command, "GE2401 GE1202");
 		
 		File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");
-		File expected = new File(".\\Expected\\" + student.getSID() + "_" + command + ".txt");
+		File expected = new File(".\\TestRequest\\IntegrationTest1\\" + student.getSID() + "_" + command + ".txt");
 		FileAssert.assertEquals(expected, result);
     }
 }

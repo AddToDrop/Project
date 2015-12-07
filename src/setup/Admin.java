@@ -257,35 +257,37 @@ public class Admin {
 		File[] requests = requestDir.listFiles();
 		try {
 			for (File f:requests) {
-				Scanner requestIn;
-				requestIn = new Scanner(f);
-				
-				String SID = requestIn.nextLine();
-				String pwd = requestIn.nextLine();
-				String command = requestIn.nextLine();
-				String courseInput = "";
-				if (command.equalsIgnoreCase("ListPossibleSchedule")){
-					courseInput = requestIn.nextLine();
-				}
-				requestIn.close();
-				
-				//login
-				Student student = Validator.login(SID, pwd);
-				if (student!=null) {
-					RequestProcessor rp = new RequestProcessor();
-					rp.processRequest(student, command, courseInput);
-				} else {
-					File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
-					try {
-						FileOutputStream fos = new FileOutputStream(result);
-						
-						fos.write("Invalid sid or password, Please check".getBytes());
-						fos.close();
-					} catch (FileNotFoundException e) {
-						e.printStackTrace();
-					} catch (IOException e) {
-						e.printStackTrace();
-					}		
+				if (f.isFile()) {
+					Scanner requestIn;
+					requestIn = new Scanner(f);
+					
+					String SID = requestIn.nextLine();
+					String pwd = requestIn.nextLine();
+					String command = requestIn.nextLine();
+					String courseInput = "";
+					if (command.equalsIgnoreCase("ListPossibleSchedule")){
+						courseInput = requestIn.nextLine();
+					}
+					requestIn.close();
+					
+					//login
+					Student student = Validator.login(SID, pwd);
+					if (student!=null) {
+						RequestProcessor rp = new RequestProcessor();
+						rp.processRequest(student, command, courseInput);
+					} else {
+						File result = new File(".\\Result\\" + SID + "_" + command + ".txt");
+						try {
+							FileOutputStream fos = new FileOutputStream(result);
+							
+							fos.write("Invalid sid or password, Please check".getBytes());
+							fos.close();
+						} catch (FileNotFoundException e) {
+							e.printStackTrace();
+						} catch (IOException e) {
+							e.printStackTrace();
+						}		
+					}
 				}
 			}
 		} catch (FileNotFoundException e) {

@@ -20,7 +20,6 @@ public class ListTakenRegistered extends Request {
 	public void process(Student student, String command, String courseInput){
 		if (command.equalsIgnoreCase("ListTaken")) {
 			ArrayList<Course> taken = student.getPrevTaken();
-			System.out.println(taken.size());
 			outputTaken(student.getSID(), taken, command);
 		} else if (command.equalsIgnoreCase("ListRegistered")) {
 			ArrayList<Session> registered = student.getRegistered();

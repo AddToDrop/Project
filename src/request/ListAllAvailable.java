@@ -71,7 +71,7 @@ public class ListAllAvailable extends Request {
 				for (Session possibleSess:possibleList){
 					boolean isOverlap = false;
 					for (Session registeredSess:registeredSessions) {
-						if (Validator.timeConflictValidation(possibleSess, registeredSess)){
+						if (Validator.timeConflict(possibleSess, registeredSess)){
 							isOverlap = true;
 						}
 					}
@@ -84,7 +84,6 @@ public class ListAllAvailable extends Request {
 			}
 			
 			outputAllAvailable(student.getSID(), availableSessions, command);
-		
 		}
 	}
 	
