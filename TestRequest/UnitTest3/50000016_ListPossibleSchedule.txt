@@ -1,0 +1,5 @@
+Possible Schedule 1
+--------------------------------------------------
+Course: CLA3603 Spanish 3
+CRN: 36646 Time: Monday 900-1150
+

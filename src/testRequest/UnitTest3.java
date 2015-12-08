@@ -199,7 +199,7 @@ public class UnitTest3 {
     }
 	
 	@Test
-    public void test_process() throws Exception {
+    public void test_process_01() throws Exception {
 		Student student = new Student("RonaldRichardson 52222221 password LLB NULL/GE1401_47326,GE1202_44812,LW2600_39585");
 		RequestProcessor rp = new RequestProcessor();
 		String command = "ListPossibleSchedule";
@@ -209,4 +209,43 @@ public class UnitTest3 {
 		File expected = new File(".\\TestRequest\\UnitTest3\\" + student.getSID() + "_" + command + ".txt");
 		FileAssert.assertEquals(expected, result);
     }
+	
+	@Test
+    public void test_process_02() throws Exception {
+		Student student = new Student("RonaldRichardson 53333331 password LLB NULL/GE1401_47326,GE1202_44812,LW2600_39585");
+		RequestProcessor rp = new RequestProcessor();
+		String command = "ListPossibleSchedule";
+		rp.processRequest(student, command, "IN1234 VA1110 GE1401");
+		
+		File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");
+		File expected = new File(".\\TestRequest\\UnitTest3\\" + student.getSID() + "_" + command + ".txt");
+		FileAssert.assertEquals(expected, result);
+    }
+	
+	@Test
+    public void test_process_03() throws Exception {
+		Student student = new Student("RonaldRichardson 54444441 password LLB NULL/GE1401_47326,GE1202_44812,LW2600_39585");
+		RequestProcessor rp = new RequestProcessor();
+		String command = "ListPossibleSchedule";
+		rp.processRequest(student, command, "CLA3603");
+		
+		File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");
+		File expected = new File(".\\TestRequest\\UnitTest3\\" + student.getSID() + "_" + command + ".txt");
+		FileAssert.assertEquals(expected, result);
+    }
+	
+	@Test
+    public void test_process_04() throws Exception {
+		Student student = new Student("KelvinBlair 50000016 password BAS GE1401,SM1701,SM1702,CS1103,GE2411,SM2702,SM2703,"
+				+ "CS1303,GE1206,SM2704,SM2705,CS2116,CS2313,GE1101,GE1325,PED1305,MA1005,JC2001,SM2714,SM3601,"
+				+ "SM3611,CS3402,SM2202,CS3347,SM2276/NULL");
+		RequestProcessor rp = new RequestProcessor();
+		String command = "ListPossibleSchedule";
+		rp.processRequest(student, command, "CLA3603");
+		
+		File result = new File(".\\Result\\" + student.getSID() + "_" + command + ".txt");
+		File expected = new File(".\\TestRequest\\UnitTest3\\" + student.getSID() + "_" + command + ".txt");
+		FileAssert.assertEquals(expected, result);
+    }
+	
 }

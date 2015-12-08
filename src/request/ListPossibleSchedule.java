@@ -77,13 +77,12 @@ public class ListPossibleSchedule extends Request {
 							isOverlap = true;
 						}
 					}
+					System.out.println();
 					
 					if (!isOverlap){
 						tmp.add(newInput);
-						System.out.println("newInput: " + newInput.getCourseCode() + " " + newInput.getCRN());
 						possibleSchedule.add(tmp);
 						tmp = (ArrayList<Session>) registeredSessions.clone();
-						System.out.println(tmp.size());
 					}
 				}
 			}
@@ -102,7 +101,6 @@ public class ListPossibleSchedule extends Request {
 					getSchedule(tmp, tmpInputs);
 					tmpInputs = (ArrayList<ArrayList<Session>>) sessionsFromInputedCourses.clone();
 					tmp = (ArrayList<Session>) registeredSessions.clone();
-					System.out.println("sssss" + tmp.size());
 				}
 			}
 		}

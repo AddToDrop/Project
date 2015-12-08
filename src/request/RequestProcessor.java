@@ -10,16 +10,30 @@ import course.Course;
 import student.Student;
 
 public class RequestProcessor {
+	private ListTakenRegistered listTakenRegistered = new ListTakenRegistered();
+	private ListAllAvailable listAllAvailable = new ListAllAvailable();
+	private ListPossibleSchedule listPossibleSchedule = new ListPossibleSchedule();
+	private Request request;
+	
+	public RequestProcessor(){}
+	
+	public RequestProcessor(Request request) {
+		if (request instanceof ListTakenRegistered) {
+			listTakenRegistered = (ListTakenRegistered) request;
+		} else if (request instanceof ListAllAvailable) {
+			listAllAvailable = (ListAllAvailable) request;
+		} else if (request instanceof ListPossibleSchedule) {
+			listPossibleSchedule  = (ListPossibleSchedule) request;
+		}
+	}
+	
 	public void processRequest(Student student, String command, String courseInput){
 		if (command.equalsIgnoreCase("ListTaken") || command.equalsIgnoreCase("ListRegistered")){
-			ListTakenRegistered request = new ListTakenRegistered();
-			request.process(student, command, courseInput);
-		} else if (command.equalsIgnoreCase("ListAllAvailable")) {
-			ListAllAvailable request = new ListAllAvailable();
-			request.process(student, command, courseInput);
-		} else if (command.equalsIgnoreCase("ListPossibleSchedule")){
-			ListPossibleSchedule request = new ListPossibleSchedule();
-			request.process(student, command, courseInput);
+			listTakenRegistered.process(student, command, courseInput);
+		} else if (command.equalsIgnoreCase("ListAllAvailable")) {			
+			listAllAvailable.process(student, command, courseInput);
+		} else if (command.equalsIgnoreCase("ListPossibleSchedule")){			
+			listPossibleSchedule.process(student, command, courseInput);
 		} else {
 			outputInvalidCommand(student.getSID(), command);
 		}

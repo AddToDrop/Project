@@ -1,3 +1,0 @@
-Please check your input.
-Invalid Course Code: CO1234, DE5678
-Already registered to: DU1234, PL5678

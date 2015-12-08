@@ -1,0 +1,3 @@
+Please check your input.
+Invalid Course Code: IN1234, VA1110
+Already registered to: GE1401
