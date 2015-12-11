@@ -77,7 +77,6 @@ public class ListPossibleSchedule extends Request {
 							isOverlap = true;
 						}
 					}
-					System.out.println();
 					
 					if (!isOverlap){
 						tmp.add(newInput);

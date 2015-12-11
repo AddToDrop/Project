@@ -13,26 +13,20 @@ CRN: 40243 Time: Thursday 1200-1350
 CRN: 46602 Time: Wednesday 1200-1350
 
 
-CRN: 46443 Time: Friday 1400-1550
-
-
 CRN: 40220 Time: Tuesday 1700-1850
 
 
 
 GE1107 The City in Chinese History and
-CRN: 47036 Time: Wednesday 1000-1150
-
-
 CRN: 47037 Time: Monday 1000-1150
+
+
+CRN: 47038 Time: Friday 1100-1250
 
 
 
 GE1110 Exploring Contemporary Art
 CRN: 41456 Time: Friday 1500-1750
-
-
-CRN: 44566 Time: Wednesday 900-1150
 
 
 CRN: 41168 Time: Wednesday 1500-1750
@@ -53,6 +47,11 @@ CRN: 44536 Time: Wednesday 1200-1350
 
 
 CRN: 46445 Time: Thursday 1400-1550
+
+
+
+GE1201 Information Management and Its Social Impact
+CRN: 47500 Time: Thursday 1200-1450
 
 
 
@@ -89,17 +88,15 @@ CRN: 41140 Time: Tuesday 900-1150
 CRN: 36376 Time: Wednesday 1600-1850
 
 
+CRN: 36375 Time: Friday 900-1150
+
+
 
 GE1205 Green Economics
 CRN: 46293 Time: Thursday 900-1150
 
 
 CRN: 36194 Time: Monday 1200-1450
-
-
-
-GE1206 Accelerating Professional Growth on the Web
-CRN: 44103 Time: Monday 900-1150
 
 
 
@@ -129,47 +126,19 @@ CRN: 48236 Time: Tuesday 1500-1750
 
 
 
-GE1325 From Ideas to Innovative Design
-CRN: 48144 Time: Friday 1400-1650
-
-
-CRN: 48130 Time: Friday 1400-1650
-
-
-CRN: 48131 Time: Friday 1400-1650
-
-
-CRN: 48129 Time: Friday 1400-1650
-
-
-
-CS2116 Computer Systems
-CRN: 45517 Time: Wednesday 1100-1250
-
-
-CRN: 45518 Time: Wednesday 1300-1450
-
-
-CRN: 45516 Time: Friday 1300-1450
-
-
-
-CS2313 Computer Programming
-CRN: 43175 Time: Wednesday 900-1050
-
-
-CRN: 43176 Time: Thursday 900-1050
-
-
-CRN: 43174 Time: Thursday 1500-1650
-
-
-
 SM3601 Games Prototyping and Design
 CRN: 31625 Time: Thursday 1200-1450
 
 
 CRN: 31624 Time: Tuesday 900-1150
+
+
+CRN: 31623 Time: Friday 900-1150
+
+
+
+JC2001 Introduction to the Sciences for Artists
+CRN: 43745 Time: Monday 900-1150
 
 
 
@@ -189,6 +158,11 @@ CRN: 36266 Time: Thursday 1500-1650
 
 
 
+SM2231 3D Animation I - Basic
+CRN: 17898 Time: Wednesday 1200-1450
+
+
+
 SM2202 Micro-Narratives
 CRN: 46836 Time: Wednesday 1500-1750
 
@@ -196,27 +170,6 @@ CRN: 46836 Time: Wednesday 1500-1750
 
 SM2220 Generative Art
 CRN: 46486 Time: Tuesday 900-1150
-
-
-
-SM1013 Introduction to Photography
-CRN: 42168 Time: Friday 1500-1650
-
-
-CRN: 44741 Time: Thursday 1500-1650
-
-
-CRN: 43776 Time: Friday 1300-1450
-
-
-
-SM2290 Cinema and Politics
-CRN: 46568 Time: Monday 1200-1450
-
-
-
-PED1101 Canoeing
-CRN: 37780 Time: Wednesday 900-1050
 
 
 
@@ -258,16 +211,10 @@ CRN: 35465 Time: Monday 1100-1150
 
 
 PED1308 Fitball
-CRN: 48594 Time: Friday 1400-1450
-
-
 CRN: 17160 Time: Monday 1000-1050
 
 
 CRN: 48593 Time: Wednesday 1500-1550
-
-
-CRN: 28995 Time: Wednesday 1000-1050
 
 
 
@@ -280,9 +227,6 @@ CRN: 48597 Time: Friday 1500-1550
 
 
 PED1310 Yoga Refreshing
-CRN: 32985 Time: Wednesday 900-950
-
-
 CRN: 20830 Time: Monday 900-950
 
 
@@ -312,9 +256,6 @@ CRN: 16469 Time: Thursday 900-1050
 
 
 PED1404 Archery
-CRN: 26633 Time: Friday 1400-1550
-
-
 CRN: 17162 Time: Thursday 1400-1550
 
 
@@ -323,20 +264,17 @@ CLA2601 Spanish 1
 CRN: 36598 Time: Thursday 900-1150
 
 
-CRN: 36597 Time: Wednesday 900-1150
-
-
 CRN: 36599 Time: Tuesday 900-1150
+
+
+
+CLA2602 Spanish 2
+CRN: 36606 Time: Friday 900-1150
 
 
 
 CLA3603 Spanish 3
 CRN: 36646 Time: Monday 900-1150
-
-
-
-AIS2973 Korean I
-CRN: 41366 Time: Wednesday 1000-1250
 
 
 

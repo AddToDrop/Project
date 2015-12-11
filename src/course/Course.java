@@ -91,7 +91,7 @@ public abstract class Course {
 			time = session.getEnd();
 		return time;
 	}
-	
+
 	public boolean isEquals(Course course){
 		if(this.getCourseCode().equals(course.getCourseCode()))
 			return true;

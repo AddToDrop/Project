@@ -23,14 +23,14 @@ import student.Student;
 
 public class SystemTest1 {
 	
-	public static boolean init = false; 
+	public static boolean init2 = false; 
 	
 	@After
 	public void setup(){
 		Admin admin = Admin.getInstance();
-		if (!init) {
+		if (!init2) {
 			admin.startSetup();
-			init = true;
+			init2 = true;
 		}
 		admin.getRequest();
 	}
