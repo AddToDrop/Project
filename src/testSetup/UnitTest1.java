@@ -1,6 +1,5 @@
 /**
  * Unit Testing 1: Session Class
- * Date: 
  */
 
 package testSetup;

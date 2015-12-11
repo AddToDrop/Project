@@ -1,6 +1,5 @@
 /**
  * Unit Testing 3: ListPossibleSchedule
- * Date: 
  */
 
 package testRequest;

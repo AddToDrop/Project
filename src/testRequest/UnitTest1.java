@@ -1,6 +1,5 @@
 /**
  * Unit Testing 1: ListTakenRegistered
- * Date: 
  */
 
 package testRequest;

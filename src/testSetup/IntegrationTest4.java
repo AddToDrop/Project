@@ -1,6 +1,5 @@
 /**
  * Integration Testing 4: Admin + Session + CourseGenerator + Course + MajorGenerator + CollegeGenerator + College + Student Class
- * Date: 
  */
 
 package testSetup;

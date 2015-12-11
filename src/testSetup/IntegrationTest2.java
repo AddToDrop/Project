@@ -1,6 +1,5 @@
 /**
  * Integration Testing 2: MajorGenerator + Major Class
- * Date: 
  */
 
 package testSetup;

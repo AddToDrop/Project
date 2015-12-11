@@ -1,6 +1,5 @@
 /**
  * Unit Testing 4: RequestProcessor
- * Date: 
  */
 
 package testRequest;

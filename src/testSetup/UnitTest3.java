@@ -1,6 +1,5 @@
 /**
  * Unit Testing 3: Major Class
- * Date: 
  */
 
 package testSetup;

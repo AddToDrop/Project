@@ -1,6 +1,5 @@
 /**
  * Integration Testing 3: CollegeGenerator + College Class
- * Date: 
  */
 
 package testSetup;

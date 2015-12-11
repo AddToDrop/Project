@@ -1,6 +1,5 @@
 /**
  * Integration Testing 1: RequestProcessor
- * Date: 
  */
 
 package testRequest;

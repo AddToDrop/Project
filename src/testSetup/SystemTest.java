@@ -1,3 +1,7 @@
+/**
+ * System Testing
+ */
+
 package testSetup;
 
 import static org.junit.Assert.*;

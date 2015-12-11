@@ -1,6 +1,5 @@
 /**
  * Unit Testing 5: Student Class
- * Date: 
  */
 
 package testSetup;

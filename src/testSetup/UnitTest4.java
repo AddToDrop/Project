@@ -1,6 +1,5 @@
 /**
  * Unit Testing 4: College Class
- * Date: 
  */
 
 package testSetup;

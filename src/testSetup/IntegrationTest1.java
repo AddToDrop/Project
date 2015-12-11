@@ -1,6 +1,5 @@
 /**
  * Integration Testing 1: CourseGenerator + Course Class
- * Date: 
  */
 
 package testSetup;
