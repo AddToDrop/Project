@@ -1,1 +1,68 @@
-Invalid sid or password, Please check
+Possible Schedule 1
+--------------------------------------------------
+Course: SM3601 Games Prototyping and Design
+CRN: 31623 Time: Friday 900-1150
+
+Course: CS3402 Database Systems
+CRN: 45550 Time: Tuesday 1500-1650
+
+Course: SM2202 Micro-Narratives
+CRN: 46836 Time: Wednesday 1500-1750
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1110 Exploring Contemporary Art
+CRN: 41456 Time: Friday 1500-1750
+
+Possible Schedule 2
+--------------------------------------------------
+Course: SM3601 Games Prototyping and Design
+CRN: 31623 Time: Friday 900-1150
+
+Course: CS3402 Database Systems
+CRN: 45550 Time: Tuesday 1500-1650
+
+Course: SM2202 Micro-Narratives
+CRN: 46836 Time: Wednesday 1500-1750
+
+Course: GE2401 English for Science
+CRN: 39269 Time: Wednesday 900-1150
+
+Course: GE1110 Exploring Contemporary Art
+CRN: 38779 Time: Tuesday 1200-1450
+
+Possible Schedule 3
+--------------------------------------------------
+Course: SM3601 Games Prototyping and Design
+CRN: 31623 Time: Friday 900-1150
+
+Course: CS3402 Database Systems
+CRN: 45550 Time: Tuesday 1500-1650
+
+Course: SM2202 Micro-Narratives
+CRN: 46836 Time: Wednesday 1500-1750
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1110 Exploring Contemporary Art
+CRN: 44566 Time: Wednesday 900-1150
+
+Possible Schedule 4
+--------------------------------------------------
+Course: SM3601 Games Prototyping and Design
+CRN: 31623 Time: Friday 900-1150
+
+Course: CS3402 Database Systems
+CRN: 45550 Time: Tuesday 1500-1650
+
+Course: SM2202 Micro-Narratives
+CRN: 46836 Time: Wednesday 1500-1750
+
+Course: GE2401 English for Science
+CRN: 39270 Time: Friday 1500-1750
+
+Course: GE1110 Exploring Contemporary Art
+CRN: 38779 Time: Tuesday 1200-1450
+

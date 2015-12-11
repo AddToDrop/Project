@@ -1,1 +1,18 @@
-Invalid sid or password, Please check
+ListRegistered
+--------------------------------------------------
+GE1401 University English
+CRN: 47326
+Time: Wednesday 900-1150
+
+MA1200 Calculus and Basic Linear Algebra I
+CRN: 37066
+Time: Thursday 900-1050
+
+AP1201 General Physics I
+CRN: 47886
+Time: Wednesday 900-1150
+
+BCH1100 Chemistry
+CRN: 39921
+Time: Monday 1500-1650
+

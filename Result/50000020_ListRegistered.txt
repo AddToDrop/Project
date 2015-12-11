@@ -1,1 +1,2 @@
-Invalid sid or password, Please check
+ListRegistered
+--------------------------------------------------

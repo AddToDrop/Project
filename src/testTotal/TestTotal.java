@@ -48,16 +48,10 @@ import setup.Admin;
 import student.Student;
 
 public class TestTotal {
-	
-	public static boolean setup = false;
-	public static boolean getReq = false;
-	
+
 	public void setup(){
-		if (setup){
-			Admin admin = Admin.getInstance();
-			admin.startSetup();
-			setup = false;
-		}
+		Admin admin = Admin.getInstance();
+		admin.startSetup();
 	}
 	
 	@After
@@ -66,12 +60,9 @@ public class TestTotal {
 	}
 	
 	public void getReq(){
-		if (getReq){
-			Admin admin = Admin.getInstance();
-			admin.startSetup();
-			admin.getRequest();
-			getReq = false;
-		}
+		Admin admin = Admin.getInstance();
+		admin.startSetup();
+		admin.getRequest();
 	}
 	
 	@Test
@@ -1100,7 +1091,6 @@ public class TestTotal {
 	
 	@Test
     public void test_makeCollege_02() throws Exception {
-		setup = true;
 		setup();
 		String path = ".\\TestInfo\\TestMakeCollege01.txt";
 		Admin admin = Admin.getInstance();
@@ -1278,7 +1268,6 @@ public class TestTotal {
 	
 	@Test
     public void test_outputRegistered() throws Exception {
-		setup = true;
 		setup();
 		Session session1 = new Session("CS1103 47964 1/1600/1850");
 		Session session2 = new Session("CS2313 43176 4/900/1050");
@@ -1302,7 +1291,6 @@ public class TestTotal {
 	
 	@Test
     public void test_process_0001() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("SamuelLloyd 50000003 password LLB GE1401,GE1202,GE1107,GE1112,GE1310,GE2411,LW2600,LW2602A,LW2602B,LW2601,LW2603A,LW2603B,LW2665,LW3604,LW3609,LW3605A,LW3605B,LW3606A,LW3606B,LW3607A,LW3607B/LW4656_26399,LW4616_46784,LW4630_45315");
 		RequestProcessor rp = new RequestProcessor();
@@ -1316,7 +1304,6 @@ public class TestTotal {
 	
 	@Test
 	public void test_process_002() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("SamuelLloyd 50000003 password LLB GE1401,GE1202,GE1107,GE1112,GE1310,GE2411,LW2600,LW2602A,LW2602B,LW2601,LW2603A,LW2603B,LW2665,LW3604,LW3609,LW3605A,LW3605B,LW3606A,LW3606B,LW3607A,LW3607B/LW4656_26399,LW4616_46784,LW4630_45315");
 		RequestProcessor rp = new RequestProcessor();
@@ -1331,7 +1318,6 @@ public class TestTotal {
 
 	@Test
     public void test_outputAllAvailable() throws Exception {
-		setup = true;
 		setup();
 		Session session1 = new Session("CS1103 47964 1/1600/1850");
 		Session session2 = new Session("CS2313 43176 4/900/1050");
@@ -1355,7 +1341,6 @@ public class TestTotal {
 	
 	@Test
     public void test_process_001() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("MarvinPena 50000021 password BAS GE1401,SM1701,SM1702,CS1103,GE2411,SM2702,SM2703,CS1303,GE1206/SM2704_42322,SM2705_42329,CS2116_45516,CS2313_43175");
 		RequestProcessor rp = new RequestProcessor();
@@ -1395,7 +1380,6 @@ public class TestTotal {
 	
 	@Test
     public void test_outputPossibleSchedule() throws Exception {
-		setup = true;
 		setup();
 		Session session1 = new Session("GE1401 47326 3/900/1150");
 		Session session2 = new Session("GE1202 44812 1/1100/1150");
@@ -1532,7 +1516,6 @@ public class TestTotal {
 	
 	@Test
     public void test_process_01() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("RonaldRichardson 52222221 password LLB NULL/GE1401_47326,GE1202_44812,LW2600_39585");
 		RequestProcessor rp = new RequestProcessor();
@@ -1546,7 +1529,6 @@ public class TestTotal {
 	
 	@Test
     public void test_process_02() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("RonaldRichardson 53333331 password LLB NULL/GE1401_47326,GE1202_44812,LW2600_39585");
 		RequestProcessor rp = new RequestProcessor();
@@ -1560,7 +1542,6 @@ public class TestTotal {
 	
 	@Test
     public void test_process_03() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("RonaldRichardson 54444441 password LLB NULL/GE1401_47326,GE1202_44812,LW2600_39585");
 		RequestProcessor rp = new RequestProcessor();
@@ -1574,7 +1555,6 @@ public class TestTotal {
 	
 	@Test
     public void test_process_04() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("KelvinBlair 50000016 password BAS GE1401,SM1701,SM1702,CS1103,GE2411,SM2702,SM2703,"
 				+ "CS1303,GE1206,SM2704,SM2705,CS2116,CS2313,GE1101,GE1325,PED1305,MA1005,JC2001,SM2714,SM3601,"
@@ -1766,7 +1746,6 @@ public class TestTotal {
 	
 	@Test
     public void test_processRequest_02() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("LyleHoward 50000006 password BACM GE1401,SM1701,SM1702,CS1103,SM2702,SM2703,CS1303,GE2410,GE1201,GE1101/SM2704_42322,SM2705_42327,SM2706_42346");
 		RequestProcessor rp = new RequestProcessor();
@@ -1780,7 +1759,6 @@ public class TestTotal {
 	
 	@Test
     public void test_processRequest_03() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("LyleHoward 50000006 password BACM GE1401,SM1701,SM1702,CS1103,SM2702,SM2703,CS1303,GE2410,GE1201,GE1101/SM2704_42322,SM2705_42327,SM2706_42346");
 		RequestProcessor rp = new RequestProcessor();
@@ -1794,7 +1772,6 @@ public class TestTotal {
 	
 	@Test
     public void test_processRequest_04() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("LyleHoward 50000006 password BACM GE1401,SM1701,SM1702,CS1103,SM2702,SM2703,CS1303,GE2410,GE1201,GE1101/SM2704_42322,SM2705_42327,SM2706_42346");
 		RequestProcessor rp = new RequestProcessor();
@@ -1808,7 +1785,6 @@ public class TestTotal {
 	
 	@Test
     public void test_processRequest_05() throws Exception {
-		setup = true;
 		setup();
 		Student student = new Student("LyleHoward 50000006 password BACM GE1401,SM1701,SM1702,CS1103,SM2702,SM2703,CS1303,GE2410,GE1201,GE1101/SM2704_42322,SM2705_42327,SM2706_42346");
 		RequestProcessor rp = new RequestProcessor();
@@ -1822,6 +1798,7 @@ public class TestTotal {
 	
 	@Test
     public void test_01() throws Exception {
+		getReq();
 		String SID = "500001";
 		String command = "ListPossibleSchedule";
 		
@@ -1848,6 +1825,7 @@ public class TestTotal {
 	
 	@Test
     public void test_02() throws Exception {
+		getReq();
 		String SID = "50000001";
 		String command = "ListTaken";
 		
@@ -1872,6 +1850,7 @@ public class TestTotal {
 	
 	@Test
     public void test_03() throws Exception {
+		getReq();
 		String SID = "50000002";
 		String command = "ListTaken";
 		
@@ -1896,6 +1875,7 @@ public class TestTotal {
 	
 	@Test
     public void test_04() throws Exception {
+		getReq();
 		String SID = "50000017";
 		String command = "ListRegistered";
 		
@@ -1920,6 +1900,7 @@ public class TestTotal {
 	
 	@Test
     public void test_05() throws Exception {
+		getReq();
 		String SID = "50000020";
 		String command = "ListRegistered";
 		
@@ -1944,6 +1925,7 @@ public class TestTotal {
 	
 	@Test
     public void test_06() throws Exception {
+		getReq();
 		String SID = "50000014";
 		String command = "ListAllAvailable";
 		
@@ -1968,6 +1950,7 @@ public class TestTotal {
 	
 	@Test
     public void test_07() throws Exception {
+		getReq();
 		String SID = "50000015";
 		String command = "ListPossibleSchedule";
 		

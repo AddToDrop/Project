@@ -1,2 +1,14 @@
 ListRegistered
 --------------------------------------------------
+LW4656 Company Law I
+CRN: 26399
+Time: Friday 1500-1650
+
+LW4616 Law of Evidence
+CRN: 46784
+Time: Tuesday 1700-1850
+
+LW4630 Equity and Trusts
+CRN: 45315
+Time: Wednesday 1200-1350
+
