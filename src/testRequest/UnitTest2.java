@@ -58,7 +58,7 @@ public class UnitTest2 {
 	
 	@Test
     public void test_process_01() throws Exception {
-		Student student = new Student("MarvinPena 50000014 password BAS GE1401,SM1701,SM1702,CS1103,GE2411,SM2702,SM2703,CS1303,GE1206/SM2704_42322,SM2705_42329,CS2116_45516,CS2313_43175");
+		Student student = new Student("MarvinPena 50000021 password BAS GE1401,SM1701,SM1702,CS1103,GE2411,SM2702,SM2703,CS1303,GE1206/SM2704_42322,SM2705_42329,CS2116_45516,CS2313_43175");
 		RequestProcessor rp = new RequestProcessor();
 		String command = "ListAllAvailable";
 		rp.processRequest(student, command, "");
